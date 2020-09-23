@@ -1,0 +1,5404 @@
+[
+    [
+        {
+            "title": "Forum tournament round: 3 bosconian!!! - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4276/forum-tournament-round-3-bosconian/1?lang=en-GB",
+            "published": "2016-09-27T00:15:40.359Z"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #2: Blue's Journey / Raguy - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4394/mame-row-2-blue-s-journey-raguy/1?lang=en-GB",
+            "published": "2016-10-03T11:33:29.627Z"
+        },
+        {
+            "name": "Blue's Journey / Raguy",
+            "company": "Alpha Denshi Co.",
+            "year": "1990",
+            "romname": "bjourney.zip",
+            "bios": "neogeo.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #3: Lizard Wizard - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4522/mame-row-3-lizard-wizard/1?lang=en-GB",
+            "published": "2016-10-10T21:45:12.398Z"
+        },
+        {
+            "id": "842",
+            "name": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",
+            "company": "Hudson",
+            "year": "1995",
+            "romname": "kabukikl.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1904",
+            "name": "TouchDown Fever",
+            "company": "SNK",
+            "year": "1987",
+            "romname": "tdfever.zip",
+            "bios": "-"
+        },
+        {
+            "id": "945",
+            "name": "Lizard Wizard",
+            "company": "Techstar",
+            "year": "1985",
+            "romname": "lizwiz.zip",
+            "bios": "-",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #4: 4-D Warriors - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4645/mame-row-4-4-d-warriors/1?lang=en-GB",
+            "published": "2016-10-17T11:06:25.373Z"
+        },
+        {
+            "id": "47",
+            "name": "American Speedway",
+            "company": "Enerdyne Technologies, Inc.",
+            "year": "1987",
+            "romname": "amspdwy.zip",
+            "bios": "-"
+        },
+        {
+            "id": "17",
+            "name": "4-D Warriors",
+            "company": "Coreland / Sega",
+            "year": "1985",
+            "romname": "4dwarrio.zip",
+            "bios": "-",
+            "winner": true
+        },
+        {
+            "id": "1730",
+            "name": "Space Duel",
+            "company": "Atari",
+            "year": "1980",
+            "romname": "spacduel.zip",
+            "bios": "-"
+        },
+        {
+            "id": "411",
+            "name": "Depthcharge",
+            "company": "Gremlin",
+            "year": "1977",
+            "romname": "depthch.zip",
+            "bios": "-"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #5: Raiga - Strato Fighter - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4765/mame-row-5-raiga-strato-fighter/1?lang=en-GB",
+            "published": "2016-10-24T11:01:44.047Z"
+        },
+        {
+            "id": "47",
+            "name": "American Speedway",
+            "company": "Enerdyne Technologies, Inc.",
+            "year": "1987",
+            "romname": "amspdwy.zip",
+            "bios": "-"
+        },
+        {
+            "id": "701",
+            "name": "Halley's Comet",
+            "company": "Taito America Corporation",
+            "year": "1986",
+            "romname": "halleys.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1842",
+            "name": "Raiga - Strato Fighter",
+            "company": "Tecmo",
+            "year": "1991",
+            "romname": "stratof.zip",
+            "bios": "-",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #6: Pang - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4880/mame-row-6-pang/1?lang=en-GB",
+            "published": "2016-10-31T08:25:13.474Z"
+        },
+        {
+            "id": "1370",
+            "name": "PlayBall! (prototype)",
+            "company": "Williams",
+            "year": "1983",
+            "romname": "playball.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1022",
+            "name": "Mazinger Z",
+            "company": "Banpresto/Dynamic Pl. Toei Animation",
+            "year": "1994",
+            "romname": "mazinger.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1265",
+            "name": "Pang (World)",
+            "company": "Mitchell",
+            "year": "1989",
+            "romname": "pang.zip",
+            "bios": "-",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #7: Air Duel - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/4999/mame-row-7-air-duel/1?lang=en-GB",
+            "published": "2016-11-07T03:06:56.486Z"
+        },
+        {
+            "id": "1670",
+            "name": "Shuffleshot (v1.39)",
+            "company": "Strata/Incredible Technologies",
+            "year": "1997",
+            "romname": "shufshot.zip",
+            "bios": "-"
+        },
+        {
+            "id": "34",
+            "name": "Air Duel (Japan)",
+            "company": "Irem",
+            "year": "1990",
+            "romname": "airduel.zip",
+            "bios": "-",
+            "winner": true
+        },
+        {
+            "id": "731",
+            "name": "Hero",
+            "company": "Seatongrove Ltd",
+            "year": "1983",
+            "romname": "hero.zip",
+            "bios": "-"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #8: Pac & Pal - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/5155/mame-row-8-pac-pal/1?lang=en-GB",
+            "published": "2016-11-14T03:03:43.065Z"
+        },
+        {
+            "id": "1496",
+            "name": "Real Bout Fatal Fury / Real Bout Garou Densetsu",
+            "company": "SNK",
+            "year": "1995",
+            "romname": "rbff1.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1258",
+            "name": "Pac & Pal",
+            "company": "Namco",
+            "year": "1983",
+            "romname": "pacnpal.zip",
+            "bios": "-",
+            "winner": true
+        },
+        {
+            "id": "597",
+            "name": "Galivan - Cosmo Police (12/16/1985)",
+            "company": "Nichibutsu",
+            "year": "1985",
+            "romname": "galivan.zip",
+            "bios": "-"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #9: Puyo Puyo 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/5336/mame-row-9-puyo-puyo-2/1?lang=en-GB",
+            "published": "2016-11-21T10:14:50.800Z"
+        },
+        {
+            "id": "200",
+            "name": "Boxing Bugs",
+            "company": "Cinematronics",
+            "year": "1981",
+            "romname": "boxingb.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1426",
+            "name": "Puyo Puyo 2 (Japan)",
+            "company": "Compile (Sega license)",
+            "year": "1994",
+            "romname": "puyopuy2.zip",
+            "bios": "-",
+            "winner": true
+        },
+        {
+            "id": "906",
+            "name": "Kung-Fu Master",
+            "company": "Irem",
+            "year": "1984",
+            "romname": "kungfum.zip",
+            "bios": "-"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #10 - Forgotten Worlds - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/5599/mame-row-10-forgotten-worlds/1?lang=en-GB",
+            "published": "2016-11-28T14:32:31.918Z"
+        },
+        {
+            "id": "1779",
+            "name": "S.P.Y. - Special Project Y (World ver. N)",
+            "company": "Konami",
+            "year": "1989",
+            "romname": "spy.zip",
+            "bios": "-"
+        },
+        {
+            "id": "2139",
+            "name": "Wrestle War",
+            "company": "Sega",
+            "year": "1989",
+            "romname": "wrestwar.zip",
+            "bios": "-"
+        },
+        {
+            "id": "563",
+            "name": "Forgotten Worlds (US)",
+            "company": "Capcom",
+            "year": "1988",
+            "romname": "forgottn.zip",
+            "bios": "-",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #11: Moon Cresta - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/5864/mame-row-11-moon-cresta/1?lang=en-GB",
+            "published": "2016-12-05T10:32:54.337Z"
+        },
+        {
+            "id": "336",
+            "name": "Crater Raider",
+            "company": "Bally Midway",
+            "year": "1984",
+            "romname": "crater.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1518",
+            "name": "Ribbit!",
+            "company": "Sega",
+            "year": "1991",
+            "romname": "ribbit.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1113",
+            "name": "Moon Cresta (Nichibutsu)",
+            "company": "Nichibutsu",
+            "year": "1980",
+            "romname": "mooncrst.zip",
+            "bios": "-",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #12: Frenzy - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/6084/mame-row-12-frenzy/1?lang=en-GB",
+            "published": "2016-12-12T04:00:08.368Z"
+        },
+        {
+            "id": "614",
+            "name": "Gauntlet (rev 14)",
+            "company": "Atari Games",
+            "year": "1985",
+            "romname": "gauntlet.zip",
+            "bios": "-"
+        },
+        {
+            "id": "1279",
+            "name": "Gyakuten!! Puzzle Bancho (Japan)",
+            "company": "Fuuki",
+            "year": "1996",
+            "romname": "pbancho.zip",
+            "bios": "-"
+        },
+        {
+            "id": "567",
+            "name": "Frenzy",
+            "company": "Stern",
+            "year": "1982",
+            "romname": "frenzy.zip",
+            "bios": "-",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #13: Wanted - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/6337/mame-row-13-wanted/1?lang=en-GB",
+            "published": "2016-12-19T02:08:21.797Z"
+        },
+        {
+            "id": "693",
+            "name": "Guzzler",
+            "company": "Tehkan",
+            "year": "1983",
+            "romname": "guzzler.zip"
+        },
+        {
+            "id": "2097",
+            "name": "Wanted",
+            "company": "Sigma Enterprises Inc.",
+            "year": "1984",
+            "romname": "wanted.zip",
+            "winner": true
+        },
+        {
+            "id": "1929",
+            "name": "ThunderJaws",
+            "company": "Atari Games",
+            "year": "1990",
+            "romname": "thunderj.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #14: Cop 01 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/6604/mame-row-14-cop-01/1?lang=en-GB",
+            "published": "2016-12-26T12:30:05.875Z"
+        },
+        {
+            "id": "1062",
+            "name": "Mini Golf (set 1)",
+            "company": "Bally/Sente",
+            "year": "1985",
+            "romname": "minigolf.zip"
+        },
+        {
+            "id": "320",
+            "name": "Cop 01 (set 1)",
+            "company": "Nichibutsu",
+            "year": "1985",
+            "romname": "cop01.zip",
+            "winner": true
+        },
+        {
+            "id": "50",
+            "name": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku",
+            "company": "ADK / SNK",
+            "year": "1994",
+            "romname": "aodk.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #15 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/6961/mame-row-15/1?lang=en-GB",
+            "published": "2017-01-03T03:21:54.238Z"
+        },
+        {
+            "id": "660",
+            "name": "Gridlee",
+            "company": "Videa",
+            "year": "1983",
+            "romname": "gridlee.zip"
+        },
+        {
+            "id": "39",
+            "name": "Aliens (World set 1)",
+            "company": "Konami",
+            "year": "1990",
+            "romname": "aliens.zip"
+        },
+        {
+            "id": "2068",
+            "name": "Vimana",
+            "company": "Toaplan",
+            "year": "1991",
+            "romname": "vimana.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #16 - Mystic Riders - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/7152/mame-row-16-mystic-riders/1?lang=en-GB",
+            "published": "2017-01-09T13:51:13.400Z"
+        },
+        {
+            "id": "1160",
+            "name": "Mystic Riders (World)",
+            "company": "Irem",
+            "year": "1992",
+            "romname": "mysticri.zip",
+            "winner": true
+        },
+        {
+            "id": "334",
+            "name": "Crackshot (version 2.0)",
+            "company": "Exidy",
+            "year": "1985",
+            "romname": "cracksht.zip"
+        },
+        {
+            "id": "1591",
+            "name": "Super Bagman",
+            "company": "Valadon Automation",
+            "year": "1984",
+            "romname": "sbagman.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #17 - Scion - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/7380/mame-row-17-scion/1?lang=en-GB",
+            "published": "2017-01-16T05:29:47.486Z"
+        },
+        {
+            "id": "520",
+            "name": "F-1 Grand Prix Part II",
+            "company": "Video System Co.",
+            "year": "1992",
+            "romname": "f1gp2.zip"
+        },
+        {
+            "id": "1602",
+            "name": "Scion",
+            "company": "Seibu Denshi",
+            "year": "1984",
+            "romname": "scion.zip",
+            "winner": true
+        },
+        {
+            "id": "1653",
+            "name": "Shanghai Kid",
+            "company": "Taiyo (Data East license)",
+            "year": "1985",
+            "romname": "shangkid.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #18 - Cosmos - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/7585/mame-row-18-cosmos/1?lang=en-GB",
+            "published": "2017-01-24T08:27:17.693Z"
+        },
+        {
+            "id": "866",
+            "name": "Kick Rider",
+            "company": "Universal",
+            "year": "1984",
+            "romname": "kickridr.zip"
+        },
+        {
+            "id": "472",
+            "name": "Dream Soccer '94",
+            "company": "Irem (Data East Corporation license)",
+            "year": "1994",
+            "romname": "dsoccr94.zip"
+        },
+        {
+            "id": "325",
+            "name": "Cosmos",
+            "company": "Century Electronics",
+            "year": "1981",
+            "romname": "cosmos.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #19 - Thief - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/7765/mame-row-19-thief/1?lang=en-GB",
+            "published": "2017-01-30T11:27:57.927Z"
+        },
+        {
+            "id": "2135",
+            "name": "War of the Worlds",
+            "company": "Cinematronics",
+            "year": "1981",
+            "romname": "wotw.zip"
+        },
+        {
+            "id": "1925",
+            "name": "Thief",
+            "company": "Pacific Novelty",
+            "year": "1981",
+            "romname": "thief.zip",
+            "winner": true
+        },
+        {
+            "id": "151",
+            "name": "Birdie King 3",
+            "company": "Taito Corporation",
+            "year": "1984",
+            "romname": "bking3.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #20 - Super Glob - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/7963/mame-row-20-super-glob/1?lang=en-GB",
+            "published": "2017-02-06T11:36:16.972Z"
+        },
+        {
+            "id": "2162",
+            "name": "Yamato (US)",
+            "company": "Sega",
+            "year": "1983",
+            "romname": "yamato.zip"
+        },
+        {
+            "id": "1867",
+            "name": "Super Glob",
+            "company": "Epos Corporation",
+            "year": "1983",
+            "romname": "suprglob.zip",
+            "winner": true
+        },
+        {
+            "id": "946",
+            "name": "The Legend of Kage",
+            "company": "Taito Corporation",
+            "year": "1984",
+            "romname": "lkage.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #21 - Carnival - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/8169/mame-row-21-carnival/1?lang=en-GB",
+            "published": "2017-02-13T12:08:31.104Z"
+        },
+        {
+            "id": "941",
+            "name": "Liberation",
+            "company": "Data East Corporation",
+            "year": "1984",
+            "romname": "liberate.zip"
+        },
+        {
+            "id": "246",
+            "name": "Carnival (upright)",
+            "company": "Sega",
+            "year": "1980",
+            "romname": "carnival.zip",
+            "winner": true
+        },
+        {
+            "id": "11",
+            "name": "3 Count Bout / Fire Suplex",
+            "company": "SNK",
+            "year": "1993",
+            "romname": "3countb.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #22 - Shocking - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/8359/mame-row-22-shocking/1?lang=en-GB",
+            "published": "2017-02-20T13:45:32.593Z"
+        },
+        {
+            "name": "Shocking",
+            "company": "Yun Sung",
+            "year": "1997",
+            "romname": "shocking.zip",
+            "winner": true
+        },
+        {
+            "name": "Dragon Gun (US)",
+            "company": "Data East Corporation",
+            "year": "1993",
+            "romname": "dragngun.zip"
+        },
+        {
+            "name": "King of the Monsters 2 - The Next Thing",
+            "company": "SNK",
+            "year": "1992",
+            "romname": "kotm2.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #23 - Goindol (World) - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/8528/mame-row-23-goindol-world/1?lang=en-GB",
+            "published": "2017-02-27T10:51:43.217Z"
+        },
+        {
+            "id": "1294",
+            "name": "PlayChoice-10: Dr. Mario",
+            "company": "Nintendo",
+            "year": "1990",
+            "romname": "pc_drmro.zip"
+        },
+        {
+            "id": "623",
+            "name": "Golden Fire II",
+            "company": "Topis Corp",
+            "year": "1992",
+            "romname": "gfire2.zip"
+        },
+        {
+            "id": "641",
+            "name": "Goindol (World)",
+            "company": "Sun a Electronics",
+            "year": "1987",
+            "romname": "goindol.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #24 - 1941 - Counter Attack - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/8708/mame-row-24-1941-counter-attack/1?lang=en-GB",
+            "published": "2017-03-06T12:11:27.639Z"
+        },
+        {
+            "name": "1941 - Counter Attack (World)",
+            "company": "Capcom",
+            "year": "1990",
+            "romname": "1941.zip",
+            "winner": true
+        },
+        {
+            "name": "Pandora's Palace",
+            "company": "Konami/Interlogic",
+            "year": "1984",
+            "romname": "pandoras.zip"
+        },
+        {
+            "name": "Bubbles",
+            "company": "Williams",
+            "year": "1982",
+            "romname": "bubbles.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #25 - Zed Blade / Operation Ragnarok - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/8874/mame-row-25-zed-blade-operation-ragnarok/1?lang=en-GB",
+            "published": "2017-03-13T17:48:47.755Z"
+        },
+        {
+            "id": "1042",
+            "name": "Metal Hawk (Japan)",
+            "company": "Namco",
+            "year": "1988",
+            "romname": "metlhawk.zip"
+        },
+        {
+            "id": "2172",
+            "name": "Zed Blade / Operation Ragnarok",
+            "company": "NMK",
+            "year": "1994",
+            "romname": "zedblade.zip",
+            "bios": "neogeo.zip",
+            "winner": true
+        },
+        {
+            "id": "1545",
+            "name": "Roc'n Rope",
+            "company": "Konami",
+            "year": "1983",
+            "romname": "rocnrope.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #26 - Triple Punch - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9012/mame-row-26-triple-punch/1?lang=en-GB",
+            "published": "2017-03-20T04:03:03.973Z"
+        },
+        {
+            "id": "1879",
+            "name": "Swimmer (set 1)",
+            "company": "Tehkan",
+            "year": "1982",
+            "romname": "swimmer.zip"
+        },
+        {
+            "id": "1985",
+            "name": "Triple Punch",
+            "company": "KKI",
+            "year": "1982",
+            "romname": "triplep.zip",
+            "winner": true
+        },
+        {
+            "id": "1675",
+            "name": "Side Pocket (World)",
+            "company": "Data East Corporation",
+            "year": "1986",
+            "romname": "sidepckt.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #27 - Captain Commando - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9190/mame-row-27-captain-commando/1?lang=en-GB",
+            "published": "2017-03-27T13:58:39.399Z"
+        },
+        {
+            "id": "243",
+            "name": "Captain Commando (World 911014)",
+            "company": "Capcom",
+            "year": "1991",
+            "romname": "captcomm.zip",
+            "winner": true
+        },
+        {
+            "id": "1608",
+            "name": "Screw Loose (prototype)",
+            "company": "Mylstar",
+            "year": "1983",
+            "romname": "screwloo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #28 - Surprise Attack - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9342/mame-row-28-surprise-attack/1?lang=en-GB",
+            "published": "2017-04-03T05:11:19.186Z"
+        },
+        {
+            "id": "1400",
+            "name": "Power Instinct (USA bootleg) (set 1)",
+            "company": "Atlus",
+            "year": "1993",
+            "romname": "powerins.zip"
+        },
+        {
+            "id": "1871",
+            "name": "Surprise Attack (Japan ver. M)",
+            "company": "Konami",
+            "year": "1990",
+            "romname": "surpratk.zip",
+            "winner": true
+        },
+        {
+            "id": "1240",
+            "name": "Orbitron",
+            "company": "Signatron USA",
+            "year": "1982 (estimated)",
+            "romname": "orbitron.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #29 - Jungler - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9487/mame-row-29-jungler/1?lang=en-GB",
+            "published": "2017-04-10T12:13:20.746Z"
+        },
+        {
+            "id": "1349",
+            "name": "Phantom II",
+            "company": "Midway",
+            "year": "1979",
+            "romname": "phantom2.zip"
+        },
+        {
+            "id": "494",
+            "name": "Embargo",
+            "company": "Cinematronics",
+            "year": "1977",
+            "romname": "embargo.zip"
+        },
+        {
+            "id": "841",
+            "name": "Jungler",
+            "company": "Konami",
+            "year": "1981",
+            "romname": "jungler.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #30 - The Ultimate 11 - The SNK Football Championship - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9625/mame-row-30-the-ultimate-11-the-snk-football-championship/1?lang=en-GB",
+            "published": "2017-04-17T11:36:58.661Z"
+        },
+        {
+            "id": "1832",
+            "name": "Stack Columns (Japan)",
+            "company": "Sega",
+            "year": "1994",
+            "romname": "stkclmns.zip"
+        },
+        {
+            "id": "1544",
+            "name": "Rock 'n Rage (World?)",
+            "company": "Konami",
+            "year": "1986",
+            "romname": "rockrage.zip"
+        },
+        {
+            "id": "1797",
+            "name": "Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The",
+            "company": "SNK",
+            "year": "1996",
+            "romname": "ssideki4.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #31 - Snow Bros. 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9765/mame-row-31-snow-bros-2/1?lang=en-GB",
+            "published": "2017-04-24T11:20:17.570Z"
+        },
+        {
+            "id": "1366",
+            "name": "Pit & Run",
+            "company": "Taito Corporation",
+            "year": "1984",
+            "romname": "pitnrun.zip"
+        },
+        {
+            "id": "1548",
+            "name": "Rollergames (US)",
+            "company": "Konami",
+            "year": "1991",
+            "romname": "rollerg.zip"
+        },
+        {
+            "id": "1711",
+            "name": "Snow Bros. 2 - With New Elves / Otenki Paradise",
+            "company": "[Toaplan] Hanafram",
+            "year": "1994",
+            "romname": "snowbro2.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #32 - Vanguard - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/9997/mame-row-32-vanguard/1?lang=en-GB",
+            "published": "2017-05-01T11:11:14.812Z"
+        },
+        {
+            "id": "1636",
+            "name": "Street Fighter Alpha 2 (US 960306)",
+            "company": "Capcom",
+            "year": "1996",
+            "romname": "sfa2.zip"
+        },
+        {
+            "id": "2049",
+            "name": "Vanguard (SNK)",
+            "company": "SNK",
+            "year": "1981",
+            "romname": "vanguard.zip",
+            "winner": true
+        },
+        {
+            "id": "1509",
+            "name": "Reikai Doushi (Japan)",
+            "company": "Home Data",
+            "year": "1988",
+            "romname": "reikaids.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #33 - Pac-Mania - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/10186/mame-row-33-pac-mania/1?lang=en-GB",
+            "published": "2017-05-08T12:16:18.769Z"
+        },
+        {
+            "id": "1610",
+            "name": "SD Gundam Psycho Salamander no Kyoui",
+            "company": "Banpresto / Bandai",
+            "year": "1991",
+            "romname": "sdgndmps.zip"
+        },
+        {
+            "id": "897",
+            "name": "King of the Monsters (set 1)",
+            "company": "SNK",
+            "year": "1991",
+            "romname": "kotm.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1257",
+            "name": "Pac-Mania",
+            "company": "Namco",
+            "year": "1987",
+            "romname": "pacmania.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #34 - Quantum - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/10327/mame-row-34-quantum/1?lang=en-GB",
+            "published": "2017-05-15T12:04:42.537Z"
+        },
+        {
+            "id": "1527",
+            "name": "Roller Jammer",
+            "company": "Nichibutsu + Alice",
+            "year": "1984",
+            "romname": "rjammer.zip"
+        },
+        {
+            "id": "1455",
+            "name": "Quantum (rev 2)",
+            "company": "Atari",
+            "year": "1982",
+            "romname": "quantum.zip",
+            "winner": true
+        },
+        {
+            "id": "2044",
+            "name": "Ultra Toukon Densetsu (Japan)",
+            "company": "Banpresto + Tsuburaya Prod.",
+            "year": "1993",
+            "romname": "utoukond.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #35 - Hellfire - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/10486/mame-row-35-hellfire/1?lang=en-GB",
+            "published": "2017-05-22T12:24:21.651Z"
+        },
+        {
+            "id": "1054",
+            "name": "Vs. Mighty Bomb Jack (Japan)",
+            "company": "Tecmo",
+            "year": "1986",
+            "romname": "mightybj.zip"
+        },
+        {
+            "id": "730",
+            "name": "Hellfire",
+            "company": "Toaplan (Taito license)",
+            "year": "1989",
+            "romname": "hellfire.zip",
+            "winner": true
+        },
+        {
+            "id": "1730",
+            "name": "Space Duel",
+            "company": "Atari",
+            "year": "1980",
+            "romname": "spacduel.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #36 - DonPachi - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/10650/mame-row-36-donpachi/1?lang=en-GB",
+            "published": "2017-05-29T13:38:32.524Z"
+        },
+        {
+            "id": "1717",
+            "name": "Solar Quest",
+            "company": "Cinematronics",
+            "year": "1981",
+            "romname": "solarq.zip"
+        },
+        {
+            "id": "447",
+            "name": "DonPachi (US)",
+            "company": "Atlus/Cave",
+            "year": "1995",
+            "romname": "donpachi.zip",
+            "winner": true
+        },
+        {
+            "id": "578",
+            "name": "Final Star Force (US)",
+            "company": "Tecmo",
+            "year": "1992",
+            "romname": "fstarfrc.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #37 - Super Space Invaders '91 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/10807/mame-row-37-super-space-invaders-91/1?lang=en-GB",
+            "published": "2017-06-05T13:56:15.725Z"
+        },
+        {
+            "id": "244",
+            "name": "Car Jamboree",
+            "company": "Omori Electric Co., Ltd.",
+            "year": "1983",
+            "romname": "carjmbre.zip"
+        },
+        {
+            "id": "1793",
+            "name": "Super Space Invaders '91 (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1990",
+            "romname": "ssi.zip",
+            "winner": true
+        },
+        {
+            "id": "899",
+            "name": "The Koukouyakyuh",
+            "company": "Alpha Denshi Co.",
+            "year": "1985",
+            "romname": "kouyakyu.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #38 - Bal Cube - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/10970/mame-row-38-bal-cube/1?lang=en-GB",
+            "published": "2017-06-12T13:47:35.680Z"
+        },
+        {
+            "id": "1617",
+            "name": "Sea Wolf II",
+            "company": "Midway",
+            "year": "1978",
+            "romname": "seawolf2.zip"
+        },
+        {
+            "id": "135",
+            "name": "The Big Pro Wrestling!",
+            "company": "Technos",
+            "year": "1983",
+            "romname": "bigprowr.zip"
+        },
+        {
+            "id": "94",
+            "name": "Bal Cube",
+            "company": "Metro",
+            "year": "1996",
+            "romname": "balcube.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #39 - Rezon - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11092/mame-row-39-rezon/1?lang=en-GB",
+            "published": "2017-06-19T11:27:16.564Z"
+        },
+        {
+            "id": "282",
+            "name": "Chequered Flag",
+            "company": "Konami",
+            "year": "1988",
+            "romname": "chqflag.zip"
+        },
+        {
+            "id": "1436",
+            "name": "Power Instinct 2 (USA)",
+            "company": "Atlus/Cave",
+            "year": "1994",
+            "romname": "pwrinst2.zip"
+        },
+        {
+            "id": "1517",
+            "name": "Rezon",
+            "company": "Allumer",
+            "year": "1991",
+            "romname": "rezon.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #40 - Armed Formation - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11214/mame-row-40-armed-formation/1?lang=en-GB",
+            "published": "2017-06-26T11:01:11.614Z"
+        },
+        {
+            "id": "1550",
+            "name": "Rompers (Japan)",
+            "company": "Namco",
+            "year": "1989",
+            "romname": "rompers.zip"
+        },
+        {
+            "id": "2053",
+            "name": "Varth - Operation Thunderstorm (World 920612)",
+            "company": "Capcom",
+            "year": "1992",
+            "romname": "varth.zip"
+        },
+        {
+            "id": "64",
+            "name": "Armed Formation",
+            "company": "Nichibutsu",
+            "year": "1988",
+            "romname": "armedf.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #41 - Super Tank - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11369/mame-row-41-super-tank/1?lang=en-GB",
+            "published": "2017-07-03T10:59:24.938Z"
+        },
+        {
+            "id": "1864",
+            "name": "Super Tank",
+            "company": "Video Games GmbH",
+            "year": "1981",
+            "romname": "supertnk.zip",
+            "winner": true
+        },
+        {
+            "id": "833",
+            "name": "Joyful Road (Japan)",
+            "company": "SNK",
+            "year": "1983",
+            "romname": "joyfulr.zip"
+        },
+        {
+            "id": "84",
+            "name": "Avalanche",
+            "company": "Atari",
+            "year": "1978",
+            "romname": "avalnche.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #42 - Joust - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11520/mame-row-42-joust/1?lang=en-GB",
+            "published": "2017-07-10T11:01:32.837Z"
+        },
+        {
+            "id": "2104",
+            "name": "Water Ski",
+            "company": "Taito Corporation",
+            "year": "1983",
+            "romname": "waterski.zip"
+        },
+        {
+            "id": "831",
+            "name": "Joust (White/Green label)",
+            "company": "Williams",
+            "year": "1982",
+            "romname": "joust.zip",
+            "winner": true
+        },
+        {
+            "id": "1410",
+            "name": "Power Spikes (World)",
+            "company": "Video System Co.",
+            "year": "1991",
+            "romname": "pspikes.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #43 - Chopper I - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11668/mame-row-43-chopper-i/1?lang=en-GB",
+            "published": "2017-07-17T11:07:32.685Z"
+        },
+        {
+            "id": "692",
+            "name": "Guwange (Japan)",
+            "company": "Atlus/Cave",
+            "year": "1999",
+            "romname": "guwange.zip"
+        },
+        {
+            "id": "281",
+            "name": "Chopper I (US set 1)",
+            "company": "SNK",
+            "year": "1988",
+            "romname": "chopper.zip",
+            "winner": true
+        },
+        {
+            "id": "1007",
+            "name": "Mars",
+            "company": "Artic",
+            "year": "1981",
+            "romname": "mars.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #44 - The Last Day - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11825/mame-row-44-the-last-day/1?lang=en-GB",
+            "published": "2017-07-24T12:02:01.147Z"
+        },
+        {
+            "id": "10",
+            "name": "Datsun 280 Zzzap",
+            "company": "Midway",
+            "year": "1976",
+            "romname": "280zzzap.zip"
+        },
+        {
+            "id": "920",
+            "name": "The Last Day (set 1)",
+            "company": "Dooyong",
+            "year": "1990",
+            "romname": "lastday.zip",
+            "winner": true
+        },
+        {
+            "id": "1116",
+            "name": "Mosaic",
+            "company": "Space",
+            "year": "1990",
+            "romname": "mosaic.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #45 - Terra Force - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/11979/mame-row-45-terra-force/1?lang=en-GB",
+            "published": "2017-07-31T11:56:32.023Z"
+        },
+        {
+            "id": "57",
+            "name": "Arbalester",
+            "company": "Seta",
+            "year": "1989",
+            "romname": "arbalest.zip"
+        },
+        {
+            "id": "252",
+            "name": "Crude Buster (World FX version)",
+            "company": "Data East Corporation",
+            "year": "1990",
+            "romname": "cbuster.zip"
+        },
+        {
+            "id": "1916",
+            "name": "Terra Force",
+            "company": "Nichibutsu",
+            "year": "1987",
+            "romname": "terraf.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #46 - U.N. Squadron - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12143/mame-row-46-u-n-squadron/1?lang=en-GB",
+            "published": "2017-08-07T12:47:06.451Z"
+        },
+        {
+            "id": "2035",
+            "name": "U.N. Squadron (US)",
+            "company": "Capcom",
+            "year": "1989",
+            "romname": "unsquad.zip",
+            "winner": true
+        },
+        {
+            "id": "2170",
+            "name": "Zaviga",
+            "company": "Data East Corporation",
+            "year": "1984",
+            "romname": "zaviga.zip"
+        },
+        {
+            "id": "554",
+            "name": "Flicky (128k Ver.)",
+            "company": "Sega",
+            "year": "1984",
+            "romname": "flicky.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #47 - Puzzle Bobble / Bust-A-Move - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12275/mame-row-47-puzzle-bobble-bust-a-move/1?lang=en-GB",
+            "published": "2017-08-14T04:39:38.769Z"
+        },
+        {
+            "id": "1900",
+            "name": "Tazz-Mania (set 1)",
+            "company": "Stern",
+            "year": "1982",
+            "romname": "tazmania.zip"
+        },
+        {
+            "id": "1284",
+            "name": "Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 1)",
+            "company": "Taito",
+            "year": "1994",
+            "romname": "pbobblen.zip",
+            "bios": "neogeo.zip",
+            "winner": true
+        },
+        {
+            "id": "2052",
+            "name": "Vapor Trail - Hyper Offence Formation (World revision 1)",
+            "company": "Data East Corporation",
+            "year": "1989",
+            "romname": "vaportra.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #48 - The King of Fighters 2000 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12443/mame-row-48-the-king-of-fighters-2000/1?lang=en-GB",
+            "published": "2017-08-21T11:31:39.182Z"
+        },
+        {
+            "id": "884",
+            "name": "The King of Fighters 2000",
+            "company": "SNK",
+            "year": "2000",
+            "romname": "kof2000.zip",
+            "bios": "neogeo.zip",
+            "winner": true
+        },
+        {
+            "id": "2008",
+            "name": "Tube Panic",
+            "company": "Nichibutsu + Fujitek",
+            "year": "1984",
+            "romname": "tubep.zip"
+        },
+        {
+            "id": "1223",
+            "name": "Off the Wall (2/3-player upright)",
+            "company": "Atari Games",
+            "year": "1991",
+            "romname": "offtwall.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #49 - Battle Chopper - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12557/mame-row-49-battle-chopper/1?lang=en-GB",
+            "published": "2017-08-28T12:04:24.493Z"
+        },
+        {
+            "id": "123",
+            "name": "Battle Chopper",
+            "company": "Irem",
+            "year": "1987",
+            "romname": "bchopper.zip",
+            "winner": true
+        },
+        {
+            "id": "712",
+            "name": "Hard Hat",
+            "company": "Exidy",
+            "year": "1982",
+            "romname": "hardhat.zip"
+        },
+        {
+            "id": "1112",
+            "name": "Moon Alien Part 2",
+            "company": "Nichibutsu",
+            "year": "1980",
+            "romname": "moonal2.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #50 - Dangun Feveron - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12679/mame-row-50-dangun-feveron/1?lang=en-GB",
+            "published": "2017-09-04T11:08:38.567Z"
+        },
+        {
+            "id": "256",
+            "name": "Crazy Climber 2 (Japan)",
+            "company": "Nichibutsu",
+            "year": "1988",
+            "romname": "cclimbr2.zip"
+        },
+        {
+            "id": "515",
+            "name": "Exzisus (Japan)",
+            "company": "Taito Corporation",
+            "year": "1987",
+            "romname": "exzisus.zip"
+        },
+        {
+            "id": "419",
+            "name": "Dangun Feveron (Japan)",
+            "company": "Cave (Nihon System license)",
+            "year": "1998",
+            "romname": "dfeveron.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #51 - Time Pilot - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12798/mame-row-51-time-pilot/1?lang=en-GB",
+            "published": "2017-09-11T14:12:12.807Z"
+        },
+        {
+            "id": "1158",
+            "name": "My Hero (US)",
+            "company": "Sega",
+            "year": "1985",
+            "romname": "myhero.zip"
+        },
+        {
+            "id": "1939",
+            "name": "Time Pilot",
+            "company": "Konami",
+            "year": "1982",
+            "romname": "timeplt.zip",
+            "winner": true
+        },
+        {
+            "id": "608",
+            "name": "Gang Wars (US)",
+            "company": "Alpha Denshi Co.",
+            "year": "1989",
+            "romname": "gangwars.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #52 - 1st Anniversary Edition - Phoenix - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/12904/mame-row-52-1st-anniversary-edition-phoenix/1?lang=en-GB",
+            "published": "2017-09-18T13:18:32.216Z"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #53 - Rip Off - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/13075/mame-row-53-rip-off/1?lang=en-GB",
+            "published": "2017-09-25T12:11:36.145Z"
+        },
+        {
+            "id": "1666",
+            "name": "Shoot Out (US)",
+            "company": "Data East USA",
+            "year": "1985",
+            "romname": "shootout.zip"
+        },
+        {
+            "id": "1526",
+            "name": "Rip Off",
+            "company": "Cinematronics",
+            "year": "1979",
+            "romname": "ripoff.zip",
+            "winner": true
+        },
+        {
+            "id": "38",
+            "name": "Alien\u00b3: The Gun",
+            "company": "Sega",
+            "year": "1993",
+            "romname": "alien3.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #54 - Paperboy - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/13232/mame-row-54-paperboy/1?lang=en-GB",
+            "published": "2017-10-02T13:07:17.402Z"
+        },
+        {
+            "id": "657",
+            "name": "Grand Champion",
+            "company": "Taito",
+            "year": "1981",
+            "romname": "grchamp.zip"
+        },
+        {
+            "id": "1271",
+            "name": "Paperboy (rev 3)",
+            "company": "Atari Games",
+            "year": "1984",
+            "romname": "paperboy.zip",
+            "winner": true
+        },
+        {
+            "id": "460",
+            "name": "Dragon Buster",
+            "company": "Namco",
+            "year": "1984",
+            "romname": "drgnbstr.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #55 - Funny Mouse - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/13381/mame-row-55-funny-mouse/1?lang=en-GB",
+            "published": "2017-10-09T11:58:04.180Z"
+        },
+        {
+            "id": "582",
+            "name": "Funny Mouse",
+            "company": "Chuo Co. Ltd",
+            "year": "1982",
+            "romname": "funnymou.zip",
+            "winner": true
+        },
+        {
+            "id": "919",
+            "name": "Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi, The",
+            "company": "SNK",
+            "year": "1998",
+            "romname": "lastbld2.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1702",
+            "name": "Slick Shot (V2.2)",
+            "company": "Grand Products/Incredible Technologies",
+            "year": "1990",
+            "romname": "slikshot.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #56 - Penguin Brothers - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/13526/mame-row-56-penguin-brothers/1?lang=en-GB",
+            "published": "2017-10-16T12:46:37.623Z"
+        },
+        {
+            "id": "201",
+            "name": "Boxy Boy (US)",
+            "company": "Namco",
+            "year": "1990",
+            "romname": "boxyboy.zip"
+        },
+        {
+            "id": "1339",
+            "name": "Penguin Brothers (Japan)",
+            "company": "Subsino",
+            "year": "2000",
+            "romname": "penbros.zip",
+            "winner": true
+        },
+        {
+            "id": "48",
+            "name": "Andro Dunos",
+            "company": "Visco",
+            "year": "1992",
+            "romname": "androdun.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #57 - Vs. Balloon Fight - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/13671/mame-row-57-vs-balloon-fight/1?lang=en-GB",
+            "published": "2017-10-23T12:22:10.471Z"
+        },
+        {
+            "id": "97",
+            "name": "Vs. Balloon Fight",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "balonfgt.zip",
+            "winner": true
+        },
+        {
+            "id": "1061",
+            "name": "Inferno (S2650)",
+            "company": "Meadows",
+            "year": "1978",
+            "romname": "minferno.zip"
+        },
+        {
+            "id": "389",
+            "name": "Super Baseball Double Play Home Run Derby",
+            "company": "Leland Corp. / Tradewest",
+            "year": "1987",
+            "romname": "dblplay.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #58 - R-Type - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/13796/mame-row-58-r-type/1?lang=en-GB",
+            "published": "2017-10-30T13:13:05.884Z"
+        },
+        {
+            "id": "1559",
+            "name": "R-Type (Japan)",
+            "company": "Irem",
+            "year": "1987",
+            "romname": "rtype.zip",
+            "winner": true
+        },
+        {
+            "id": "1381",
+            "name": "Pole Position",
+            "company": "Namco",
+            "year": "1982",
+            "romname": "polepos.zip"
+        },
+        {
+            "id": "741",
+            "name": "Hit 'n Miss (version 3.0)",
+            "company": "Exidy",
+            "year": "1987",
+            "romname": "hitnmiss.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #59 - Lightning Fighters - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/14207/mame-row-59-lightning-fighters/1?lang=en-GB",
+            "published": "2017-11-06T12:46:56.106Z"
+        },
+        {
+            "id": "984",
+            "name": "Magician Lord (set 1)",
+            "company": "Alpha Denshi Co.",
+            "year": "1990",
+            "romname": "maglord.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "150",
+            "name": "Birdie King 2",
+            "company": "Taito Corporation",
+            "year": "1983",
+            "romname": "bking2.zip"
+        },
+        {
+            "id": "940",
+            "name": "Lightning Fighters (US)",
+            "company": "Konami",
+            "year": "1990",
+            "romname": "lgtnfght.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #60 - Mr. Do's Wild Ride - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/14383/mame-row-60-mr-do-s-wild-ride/1?lang=en-GB",
+            "published": "2017-11-13T12:36:29.768Z"
+        },
+        {
+            "id": "1540",
+            "name": "Robot Bowl",
+            "company": "Exidy",
+            "year": "1977",
+            "romname": "robotbwl.zip"
+        },
+        {
+            "id": "452",
+            "name": "Mr. Do's Wild Ride",
+            "company": "Universal",
+            "year": "1984",
+            "romname": "dowild.zip",
+            "winner": true
+        },
+        {
+            "id": "2171",
+            "name": "Zaxxon (set 1)",
+            "company": "Sega",
+            "year": "1982",
+            "romname": "zaxxon.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #61 - Willow - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/14508/mame-row-61-willow/1?lang=en-GB",
+            "published": "2017-11-20T12:57:42.711Z"
+        },
+        {
+            "id": "2121",
+            "name": "Willow (US)",
+            "company": "Capcom",
+            "year": "1989",
+            "romname": "willow.zip",
+            "winner": true
+        },
+        {
+            "id": "1260",
+            "name": "Paddle Mania",
+            "company": "SNK",
+            "year": "1988",
+            "romname": "paddlema.zip"
+        },
+        {
+            "id": "1718",
+            "name": "Soldam (Japan)",
+            "company": "Jaleco",
+            "year": "1992",
+            "romname": "soldamj.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #62 - Alien Syndrome - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/14691/mame-row-62-alien-syndrome/1?lang=en-GB",
+            "published": "2017-11-27T11:56:11.640Z"
+        },
+        {
+            "id": "2146",
+            "name": "WWF Superstars (US)",
+            "company": "Technos Japan",
+            "year": "1989",
+            "romname": "wwfsstar.zip"
+        },
+        {
+            "id": "1758",
+            "name": "Spectar (revision 3)",
+            "company": "Exidy",
+            "year": "1980",
+            "romname": "spectar.zip"
+        },
+        {
+            "id": "40",
+            "name": "Alien Syndrome (set 1)",
+            "company": "Sega",
+            "year": "1987",
+            "romname": "aliensyn.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #63 - Time Tunnel - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/14980/mame-row-63-time-tunnel/1?lang=en-GB",
+            "published": "2017-12-04T13:28:49.007Z"
+        },
+        {
+            "id": "1941",
+            "name": "Time Tunnel",
+            "company": "Taito Corporation",
+            "year": "1982",
+            "romname": "timetunl.zip",
+            "winner": true
+        },
+        {
+            "id": "301",
+            "name": "Vs. Clu Clu Land",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "cluclu.zip"
+        },
+        {
+            "id": "1727",
+            "name": "SOS",
+            "company": "Namco",
+            "year": "1980",
+            "romname": "sos.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #64 - Hopper Robo - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15187/mame-row-64-hopper-robo/1?lang=en-GB",
+            "published": "2017-12-11T13:59:49.145Z"
+        },
+        {
+            "id": "1821",
+            "name": "Star Hawk",
+            "company": "Cinematronics",
+            "year": "1981",
+            "romname": "starhawk.zip"
+        },
+        {
+            "id": "752",
+            "name": "Hopper Robo",
+            "company": "Sega",
+            "year": "1983",
+            "romname": "hopprobo.zip",
+            "winner": true
+        },
+        {
+            "id": "1252",
+            "name": "Ozma Wars (set 1)",
+            "company": "SNK",
+            "year": "1979",
+            "romname": "ozmawars.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #65 - Dimahoo - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15347/mame-row-65-dimahoo/1?lang=en-GB",
+            "published": "2017-12-18T14:17:03.463Z"
+        },
+        {
+            "id": "424",
+            "name": "Dimahoo (US 000121)",
+            "company": "Eighting/Raizing, distributed by Capcom",
+            "year": "2000",
+            "romname": "dimahoo.zip",
+            "winner": true
+        },
+        {
+            "id": "956",
+            "name": "Looping (set 1)",
+            "company": "Venture Line",
+            "year": "1982",
+            "romname": "looping.zip"
+        },
+        {
+            "id": "1330",
+            "name": "PlayChoice-10: Teenage Mutant Ninja Turtles II",
+            "company": "Konami (Nintendo of America license)",
+            "year": "1990",
+            "romname": "pc_tmnt2.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #66 - Peter Pepper's Ice Cream Factory - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15475/mame-row-66-peter-pepper-s-ice-cream-factory/1?lang=en-GB",
+            "published": "2017-12-25T12:28:54.204Z"
+        },
+        {
+            "id": "1166",
+            "name": "Narc (rev 7.00)",
+            "company": "Williams",
+            "year": "1988",
+            "romname": "narc.zip"
+        },
+        {
+            "id": "823",
+            "name": "Jumping Cross",
+            "company": "SNK",
+            "year": "1984",
+            "romname": "jcross.zip"
+        },
+        {
+            "id": "327",
+            "name": "Cassette: Peter Pepper's Ice Cream Factory (set 1)",
+            "company": "DECO",
+            "year": "1984",
+            "romname": "cppicf.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #67 - Psycho Soldier - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15594/mame-row-67-psycho-soldier/1?lang=en-GB",
+            "published": "2018-01-01T14:00:00.073Z"
+        },
+        {
+            "id": "1415",
+            "name": "Psycho Soldier (US)",
+            "company": "SNK",
+            "year": "1987",
+            "romname": "psychos.zip",
+            "winner": true
+        },
+        {
+            "id": "1901",
+            "name": "Tecmo Bowl (World?)",
+            "company": "Tecmo",
+            "year": "1987",
+            "romname": "tbowl.zip"
+        },
+        {
+            "id": "498",
+            "name": "Enigma 2",
+            "company": "GamePlan (Zilec Electronics license)",
+            "year": "1981",
+            "romname": "enigma2.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #68 - Donkey Kong 3 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15723/mame-row-68-donkey-kong-3/1?lang=en-GB",
+            "published": "2018-01-08T13:14:51.253Z"
+        },
+        {
+            "id": "432",
+            "name": "Donkey Kong 3 (US)",
+            "company": "Nintendo of America",
+            "year": "1983",
+            "romname": "dkong3.zip",
+            "winner": true
+        },
+        {
+            "id": "363",
+            "name": "Curve Ball",
+            "company": "Mylstar",
+            "year": "1984",
+            "romname": "curvebal.zip"
+        },
+        {
+            "id": "1341",
+            "name": "Pepper II",
+            "company": "Exidy",
+            "year": "1982",
+            "romname": "pepper2.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #69 - Penguin-Kun Wars - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15828/mame-row-69-penguin-kun-wars/1?lang=en-GB",
+            "published": "2018-01-15T14:36:44.372Z"
+        },
+        {
+            "id": "1368",
+            "name": "Penguin-Kun Wars (US)",
+            "company": "UPL",
+            "year": "",
+            "romname": "pkunwar.zip",
+            "winner": true
+        },
+        {
+            "id": "1766",
+            "name": "Spiker",
+            "company": "Bally/Sente",
+            "year": "1986",
+            "romname": "spiker.zip"
+        },
+        {
+            "id": "1798",
+            "name": "Super Slam",
+            "company": "Playmark",
+            "year": "1993",
+            "romname": "sslam.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #70 - Thrash Rally - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/15954/mame-row-70-thrash-rally/1?lang=en-GB",
+            "published": "2018-01-22T13:35:36.583Z"
+        },
+        {
+            "id": "1572",
+            "name": "Saboten Bombers",
+            "company": "NMK / Tecmo",
+            "year": "1992",
+            "romname": "sabotenb.zip"
+        },
+        {
+            "id": "1585",
+            "name": "Sand Scorpion",
+            "company": "Face",
+            "year": "1992",
+            "romname": "sandscrp.zip"
+        },
+        {
+            "id": "1978",
+            "name": "Thrash Rally",
+            "company": "Alpha Denshi Co.",
+            "year": "1991",
+            "romname": "trally.zip",
+            "bios": "neogeo.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #71 - Tactician - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16071/mame-row-71-tactician/1?lang=en-GB",
+            "published": "2018-01-29T13:49:21.124Z"
+        },
+        {
+            "id": "1888",
+            "name": "Tactician (set 1)",
+            "company": "[Konami] (Sega license)",
+            "year": "1982",
+            "romname": "tactcian.zip",
+            "winner": true
+        },
+        {
+            "id": "1217",
+            "name": "Nunchackun",
+            "company": "Taito",
+            "year": "1985",
+            "romname": "nunchaku.zip"
+        },
+        {
+            "id": "2071",
+            "name": "Violence Fight (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1989",
+            "romname": "viofight.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #72 - Change Air Blade - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16204/mame-row-72-change-air-blade/1?lang=en-GB",
+            "published": "2018-02-05T13:56:03.116Z"
+        },
+        {
+            "id": "1588",
+            "name": "Saturn",
+            "company": "[Zilec Electronics] Jaleco",
+            "year": "1983",
+            "romname": "saturn.zip"
+        },
+        {
+            "id": "233",
+            "name": "Change Air Blade (Japan)",
+            "company": "Sammy",
+            "year": "1999",
+            "romname": "cairblad.zip",
+            "winner": true
+        },
+        {
+            "id": "1346",
+            "name": "Pettan Pyuu (Japan)",
+            "company": "Sun Electronics",
+            "year": "1984",
+            "romname": "pettanp.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #73 - Thunder Cross II - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16348/mame-row-73-thunder-cross-ii/1?lang=en-GB",
+            "published": "2018-02-12T14:17:49.291Z"
+        },
+        {
+            "id": "1926",
+            "name": "Thunder Cross II (Japan)",
+            "company": "Konami",
+            "year": "1991",
+            "romname": "thndrx2.zip",
+            "winner": true
+        },
+        {
+            "id": "496",
+            "name": "Empire City: 1931 (bootleg?)",
+            "company": "Seibu Kaihatsu",
+            "year": "1986",
+            "romname": "empcity.zip"
+        },
+        {
+            "id": "464",
+            "name": "Dribbling",
+            "company": "Model Racing",
+            "year": "1983",
+            "romname": "dribling.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #74 - I'm Sorry - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16444/mame-row-74-i-m-sorry/1?lang=en-GB",
+            "published": "2018-02-19T14:05:47.570Z"
+        },
+        {
+            "id": "797",
+            "name": "I'm Sorry (US)",
+            "company": "Coreland / Sega",
+            "year": "1985",
+            "romname": "imsorry.zip",
+            "winner": true
+        },
+        {
+            "id": "1372",
+            "name": "Pleiads (Tehkan)",
+            "company": "Tehkan",
+            "year": "1981",
+            "romname": "pleiads.zip"
+        },
+        {
+            "id": "576",
+            "name": "The Final Round (version M)",
+            "company": "Konami",
+            "year": "1988",
+            "romname": "fround.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #75 - Bubble Bobble - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16574/mame-row-75-bubble-bobble/1?lang=en-GB",
+            "published": "2018-02-26T14:34:26.869Z"
+        },
+        {
+            "id": "2126",
+            "name": "Wiz",
+            "company": "Seibu Kaihatsu Inc.",
+            "year": "1985",
+            "romname": "wiz.zip"
+        },
+        {
+            "id": "219",
+            "name": "Bubble Bobble",
+            "company": "Taito Corporation",
+            "year": "1986",
+            "romname": "bublbobl.zip",
+            "winner": true
+        },
+        {
+            "id": "1085",
+            "name": "Major League",
+            "company": "Sega",
+            "year": "1985",
+            "romname": "mjleague.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #76 - Mr. Kougar - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16677/mame-row-76-mr-kougar/1?lang=en-GB",
+            "published": "2018-03-05T12:40:04.184Z"
+        },
+        {
+            "id": "1128",
+            "name": "Mr. Kougar",
+            "company": "ATW",
+            "year": "1984",
+            "romname": "mrkougar.zip",
+            "winner": true
+        },
+        {
+            "id": "1937",
+            "name": "Time Killers (v1.32)",
+            "company": "Strata/Incredible Technologies",
+            "year": "1992",
+            "romname": "timekill.zip"
+        },
+        {
+            "id": "1251",
+            "name": "Over Top",
+            "company": "ADK",
+            "year": "1996",
+            "romname": "overtop.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #77 - Tetris Plus 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16782/mame-row-77-tetris-plus-2/1?lang=en-GB",
+            "published": "2018-03-12T16:10:56.763Z"
+        },
+        {
+            "id": "1917",
+            "name": "Tetris Plus 2 (World?)",
+            "company": "Jaleco / The Tetris Company",
+            "year": "1997",
+            "romname": "tetrisp2.zip",
+            "winner": true
+        },
+        {
+            "id": "1168",
+            "name": "NATO Defense",
+            "company": "Pacific Novelty",
+            "year": "1982",
+            "romname": "natodef.zip"
+        },
+        {
+            "id": "1836",
+            "name": "Super Toffy",
+            "company": "Midas (Unico license)",
+            "year": "1994",
+            "romname": "stoffy.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #78 - Insector X - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/16909/mame-row-78-insector-x/1?lang=en-GB",
+            "published": "2018-03-19T12:02:37.267Z"
+        },
+        {
+            "id": "867",
+            "name": "Kid Niki - Radical Ninja (US)",
+            "company": "Irem (Data East USA license)",
+            "year": "1986",
+            "romname": "kidniki.zip"
+        },
+        {
+            "id": "1892",
+            "name": "Tank Busters",
+            "company": "Valadon Automation",
+            "year": "1985",
+            "romname": "tankbust.zip"
+        },
+        {
+            "id": "802",
+            "name": "Insector X (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1989",
+            "romname": "insectx.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #79 - Hotdog Storm - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17008/mame-row-79-hotdog-storm/1?lang=en-GB",
+            "published": "2018-03-26T11:26:57.599Z"
+        },
+        {
+            "id": "758",
+            "name": "Hotdog Storm",
+            "company": "Marble",
+            "year": "1996",
+            "romname": "hotdogst.zip",
+            "winner": true
+        },
+        {
+            "id": "1713",
+            "name": "Soccer Brawl",
+            "company": "SNK",
+            "year": "1991",
+            "romname": "socbrawl.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "548",
+            "name": "Fire Battle",
+            "company": "Taito",
+            "year": "1984",
+            "romname": "firebatl.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #80 - Rough Ranger - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17140/mame-row-80-rough-ranger/1?lang=en-GB",
+            "published": "2018-04-02T13:11:56.604Z"
+        },
+        {
+            "id": "1556",
+            "name": "Rough Ranger (v2.0)",
+            "company": "SunA (Sharp Image license)",
+            "year": "1988",
+            "romname": "rranger.zip",
+            "winner": true
+        },
+        {
+            "id": "703",
+            "name": "Hanagumi Taisen Columns - Sakura Wars",
+            "company": "Sega",
+            "year": "1998",
+            "romname": "hanagumi.zip"
+        },
+        {
+            "id": "1735",
+            "name": "Space Fortress",
+            "company": "Century Electronics",
+            "year": "1981",
+            "romname": "spacefrt.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #81 - Space Panic - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17239/mame-row-81-space-panic/1?lang=en-GB",
+            "published": "2018-04-09T14:20:45.789Z"
+        },
+        {
+            "id": "993",
+            "name": "The Main Event (4 Players ver. Y)",
+            "company": "Konami",
+            "year": "1988",
+            "romname": "mainevt.zip"
+        },
+        {
+            "id": "1268",
+            "name": "Space Panic (version E)",
+            "company": "Universal",
+            "year": "1980",
+            "romname": "panic.zip",
+            "winner": true
+        },
+        {
+            "id": "763",
+            "name": "Hot Shocker",
+            "company": "E.G. Felaco",
+            "year": "1982",
+            "romname": "hotshock.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #82 - Crazy Balloon - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17355/mame-row-82-crazy-balloon/1?lang=en-GB",
+            "published": "2018-04-16T12:08:36.639Z"
+        },
+        {
+            "id": "337",
+            "name": "Crazy Balloon (set 1)",
+            "company": "Taito Corporation",
+            "year": "1980",
+            "romname": "crbaloon.zip",
+            "winner": true
+        },
+        {
+            "id": "1361",
+            "name": "Pirates",
+            "company": "NIX",
+            "year": "1994",
+            "romname": "pirates.zip"
+        },
+        {
+            "id": "354",
+            "name": "Cassette: Super Astro Fighter",
+            "company": "DECO",
+            "year": "1981",
+            "romname": "csuperas.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #83 - J. J. Squawkers - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17491/mame-row-83-j-j-squawkers/1?lang=en-GB",
+            "published": "2018-04-23T19:23:02.485Z"
+        },
+        {
+            "id": "476",
+            "name": "Dyger (Korea set 1)",
+            "company": "Philko",
+            "year": "1989",
+            "romname": "dyger.zip"
+        },
+        {
+            "id": "1338",
+            "name": "Peggle (Joystick, v1.0)",
+            "company": "Strata/Incredible Technologies",
+            "year": "1991",
+            "romname": "peggle.zip"
+        },
+        {
+            "id": "829",
+            "name": "J. J. Squawkers",
+            "company": "Athena / Able",
+            "year": "1993",
+            "romname": "jjsquawk.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #84 - Quartet - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17596/mame-row-84-quartet/1?lang=en-GB",
+            "published": "2018-04-30T14:33:52.722Z"
+        },
+        {
+            "id": "1822",
+            "name": "Star Jacker (Sega)",
+            "company": "Sega",
+            "year": "1983",
+            "romname": "starjack.zip"
+        },
+        {
+            "id": "1457",
+            "name": "Quartet",
+            "company": "Sega",
+            "year": "1986",
+            "romname": "quartet.zip",
+            "winner": true
+        },
+        {
+            "id": "1357",
+            "name": "Pinbo",
+            "company": "Jaleco",
+            "year": "1984",
+            "romname": "pinbo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #85 - Major Title 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17685/mame-row-85-major-title-2/1?lang=en-GB",
+            "published": "2018-05-07T14:18:44.451Z"
+        },
+        {
+            "id": "136",
+            "name": "Big Run (11th Rallye version)",
+            "company": "Jaleco",
+            "year": "1989",
+            "romname": "bigrun.zip"
+        },
+        {
+            "id": "632",
+            "name": "Ginga NinkyouDen",
+            "company": "Jaleco",
+            "year": "1987",
+            "romname": "ginganin.zip"
+        },
+        {
+            "id": "996",
+            "name": "Major Title 2 (World)",
+            "company": "Irem",
+            "year": "1992",
+            "romname": "majtitl2.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #86 - Super Real Darwin - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17776/mame-row-86-super-real-darwin/1?lang=en-GB",
+            "published": "2018-05-14T12:36:06.528Z"
+        },
+        {
+            "id": "1783",
+            "name": "Super Real Darwin (World)",
+            "company": "Data East Corporation",
+            "year": "1987",
+            "romname": "srdarwin.zip",
+            "winner": true
+        },
+        {
+            "id": "437",
+            "name": "Acrobatic Dog-Fight",
+            "company": "Technos",
+            "year": "1984",
+            "romname": "dogfgt.zip"
+        },
+        {
+            "id": "973",
+            "name": "Vs. Mach Rider (Endurance Course Version)",
+            "company": "Nintendo",
+            "year": "1985",
+            "romname": "machridr.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #87 - Giga Wing - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17883/mame-row-87-giga-wing/1?lang=en-GB",
+            "published": "2018-05-21T11:38:26.348Z"
+        },
+        {
+            "id": "169",
+            "name": "Blocken (Japan)",
+            "company": "KID / Visco",
+            "year": "1994",
+            "romname": "blocken.zip"
+        },
+        {
+            "id": "629",
+            "name": "Giga Wing (US 990222)",
+            "company": "Capcom, supported by Takumi",
+            "year": "1999",
+            "romname": "gigawing.zip",
+            "winner": true
+        },
+        {
+            "id": "1098",
+            "name": "Marchen Maze (Japan)",
+            "company": "Namco",
+            "year": "1988",
+            "romname": "mmaze.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #88 - Renegade - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/17996/mame-row-88-renegade/1?lang=en-GB",
+            "published": "2018-05-28T14:17:18.485Z"
+        },
+        {
+            "id": "1512",
+            "name": "Renegade (US)",
+            "company": "Technos (Taito America license)",
+            "year": "1986",
+            "romname": "renegade.zip",
+            "winner": true
+        },
+        {
+            "id": "258",
+            "name": "Centipede (revision 3)",
+            "company": "Atari",
+            "year": "1980",
+            "romname": "centiped.zip"
+        },
+        {
+            "id": "1546",
+            "name": "Rod-Land (World)",
+            "company": "Jaleco",
+            "year": "1990",
+            "romname": "rodland.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #89 - Parodius DA! - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18081/mame-row-89-parodius-da/1?lang=en-GB",
+            "published": "2018-06-04T13:49:46.625Z"
+        },
+        {
+            "id": "1273",
+            "name": "Parodius DA! (World)",
+            "company": "Konami",
+            "year": "1990",
+            "romname": "parodius.zip",
+            "winner": true
+        },
+        {
+            "id": "1488",
+            "name": "Raimais (Japan)",
+            "company": "Taito Corporation",
+            "year": "1988",
+            "romname": "raimais.zip"
+        },
+        {
+            "id": "725",
+            "name": "Heart Attack",
+            "company": "Century Electronics",
+            "year": "1983",
+            "romname": "heartatk.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #90 - Puyo Puyo - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18177/mame-row-90-puyo-puyo/1?lang=en-GB",
+            "published": "2018-06-11T10:50:59.623Z"
+        },
+        {
+            "id": "495",
+            "name": "Emeraldia (Japan Version B)",
+            "company": "Namco",
+            "year": "1993",
+            "romname": "emeralda.zip"
+        },
+        {
+            "id": "2032",
+            "name": "Ultraman Club - Tatakae! Ultraman Kyoudai!!",
+            "company": "Tsuburaya Prod. / Banpresto",
+            "year": "1992",
+            "romname": "umanclub.zip"
+        },
+        {
+            "id": "1427",
+            "name": "Puyo Puyo (Japan)",
+            "company": "Sega / Compile",
+            "year": "1992",
+            "romname": "puyopuyo.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #91 - R-Type II - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18258/mame-row-91-r-type-ii/1?lang=en-GB",
+            "published": "2018-06-18T12:47:58.280Z"
+        },
+        {
+            "id": "564",
+            "name": "Formation Z",
+            "company": "Jaleco",
+            "year": "1984",
+            "romname": "formatz.zip"
+        },
+        {
+            "id": "1971",
+            "name": "Total Carnage (rev LA1 03/10/92)",
+            "company": "Midway",
+            "year": "1992",
+            "romname": "totcarn.zip"
+        },
+        {
+            "id": "1560",
+            "name": "R-Type II",
+            "company": "Irem",
+            "year": "1989",
+            "romname": "rtype2.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #92 - Legend of Hero Tonma - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18353/mame-row-92-legend-of-hero-tonma/1?lang=en-GB",
+            "published": "2018-06-26T02:36:09.394Z"
+        },
+        {
+            "id": "954",
+            "name": "Legend of Hero Tonma",
+            "company": "Irem",
+            "year": "1989",
+            "romname": "loht.zip",
+            "winner": true
+        },
+        {
+            "id": "1764",
+            "name": "Super Puzzle Fighter 2 Turbo (US 960620)",
+            "company": "Capcom",
+            "year": "1996",
+            "romname": "spf2t.zip"
+        },
+        {
+            "id": "1375",
+            "name": "Plotting (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1989",
+            "romname": "plotting.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #93 - Out Run - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18422/mame-row-93-out-run/1?lang=en-GB",
+            "published": "2018-07-02T13:14:53.420Z"
+        },
+        {
+            "id": "288",
+            "name": "City Bomber (World)",
+            "company": "Konami",
+            "year": "1987",
+            "romname": "citybomb.zip"
+        },
+        {
+            "id": "1248",
+            "name": "Out Run (set 1)",
+            "company": "Sega",
+            "year": "1986",
+            "romname": "outrun.zip",
+            "winner": true
+        },
+        {
+            "id": "852",
+            "name": "Karate Blazers (World?)",
+            "company": "Video System Co.",
+            "year": "1991",
+            "romname": "karatblz.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #94 - Tinkle Pit - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18488/mame-row-94-tinkle-pit/1?lang=en-GB",
+            "published": "2018-07-09T15:53:20.542Z"
+        },
+        {
+            "id": "1778",
+            "name": "Sprint 8",
+            "company": "Atari",
+            "year": "1977",
+            "romname": "sprint8.zip"
+        },
+        {
+            "id": "429",
+            "name": "Disco No.1",
+            "company": "Data East",
+            "year": "1982",
+            "romname": "disco.zip"
+        },
+        {
+            "id": "1943",
+            "name": "Tinkle Pit (Japan)",
+            "company": "Namco",
+            "year": "1993",
+            "romname": "tinklpit.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #95 - PuLiRuLa - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18563/mame-row-95-pulirula/1?lang=en-GB",
+            "published": "2018-07-16T12:31:24.434Z"
+        },
+        {
+            "id": "1202",
+            "name": "Night Driver",
+            "company": "Atari",
+            "year": "1976",
+            "romname": "nitedrvr.zip"
+        },
+        {
+            "id": "1419",
+            "name": "PuLiRuLa (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1991",
+            "romname": "pulirula.zip",
+            "winner": true
+        },
+        {
+            "id": "853",
+            "name": "The Karate Tournament",
+            "company": "Mitchell",
+            "year": "1992",
+            "romname": "karatour.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #96 - Timber - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18642/mame-row-96-timber/1?lang=en-GB",
+            "published": "2018-07-23T11:16:40.055Z"
+        },
+        {
+            "id": "118",
+            "name": "Bouncing Balls",
+            "company": "Comad",
+            "year": "1991",
+            "romname": "bballs.zip"
+        },
+        {
+            "id": "368",
+            "name": "Cybattler",
+            "company": "Jaleco",
+            "year": "1993",
+            "romname": "cybattlr.zip"
+        },
+        {
+            "id": "1936",
+            "name": "Timber",
+            "company": "Bally Midway",
+            "year": "1984",
+            "romname": "timber.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #97 - Pac-Man Plus - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18735/mame-row-97-pac-man-plus/1?lang=en-GB",
+            "published": "2018-07-31T10:38:20.941Z"
+        },
+        {
+            "id": "1259",
+            "name": "Pac-Man Plus",
+            "company": "[Namco] (Midway license)",
+            "year": "1982",
+            "romname": "pacplus.zip",
+            "winner": true
+        },
+        {
+            "id": "1035",
+            "name": "Mega Zone",
+            "company": "Konami",
+            "year": "1983",
+            "romname": "megazone.zip"
+        },
+        {
+            "id": "1957",
+            "name": "Toki (World set 1)",
+            "company": "Tad",
+            "year": "1989",
+            "romname": "toki.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #98 - The Legend of Silkroad - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18798/mame-row-98-the-legend-of-silkroad/1?lang=en-GB",
+            "published": "2018-08-06T14:52:36.415Z"
+        },
+        {
+            "id": "265",
+            "name": "Champion Wrestler (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1989",
+            "romname": "champwr.zip"
+        },
+        {
+            "id": "399",
+            "name": "Double Dribble",
+            "company": "Konami",
+            "year": "1986",
+            "romname": "ddribble.zip"
+        },
+        {
+            "id": "1678",
+            "name": "The Legend of Silkroad",
+            "company": "Unico",
+            "year": "1999",
+            "romname": "silkroad.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #99 - Super Stingray - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18872/mame-row-99-super-stingray/1?lang=en-GB",
+            "published": "2018-08-13T14:00:24.412Z"
+        },
+        {
+            "id": "1808",
+            "name": "Super Stingray",
+            "company": "Alpha Denshi Co.",
+            "year": "1986",
+            "romname": "sstingry.zip",
+            "winner": true
+        },
+        {
+            "id": "141",
+            "name": "Bio Attack",
+            "company": "Taito Corporation (Fox Video Games license)",
+            "year": "1983",
+            "romname": "bioatack.zip"
+        },
+        {
+            "id": "1502",
+            "name": "Recordbreaker (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1988",
+            "romname": "recordbr.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #100 - Wonder Boy - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/18940/mame-row-100-wonder-boy/1?lang=en-GB",
+            "published": "2018-08-20T19:43:42.890Z"
+        },
+        {
+            "id": "2107",
+            "name": "Wonder Boy",
+            "company": "Escape",
+            "year": "1986",
+            "romname": "wboy.zip",
+            "winner": true
+        },
+        {
+            "id": "454",
+            "name": "Dragon Blaze",
+            "company": "Psikyo",
+            "year": "2000",
+            "romname": "dragnblz.zip"
+        },
+        {
+            "id": "739",
+            "name": "Hit the Ice",
+            "company": "Williams",
+            "year": "1990",
+            "romname": "hitice.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #101 - Great 1000 Miles Rally - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19045/mame-row-101-great-1000-miles-rally/1?lang=en-GB",
+            "published": "2018-08-28T17:27:19.654Z"
+        },
+        {
+            "id": "1740",
+            "name": "Space Trek (upright)",
+            "company": "Sega",
+            "year": "1980",
+            "romname": "spacetrk.zip"
+        },
+        {
+            "id": "671",
+            "name": "Great 1000 Miles Rally",
+            "company": "Kaneko",
+            "year": "1994",
+            "romname": "gtmr.zip",
+            "winner": true
+        },
+        {
+            "id": "770",
+            "name": "Hunchback Olympic",
+            "company": "Seatongrove Ltd",
+            "year": "1984",
+            "romname": "huncholy.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #102 - Enforce - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19119/mame-row-102-enforce/1?lang=en-GB",
+            "published": "2018-09-03T11:37:48.542Z"
+        },
+        {
+            "id": "1794",
+            "name": "Super Sidekicks / Tokuten Ou",
+            "company": "SNK",
+            "year": "1992",
+            "romname": "ssideki.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "497",
+            "name": "Enforce (Japan)",
+            "company": "Taito Corporation",
+            "year": "1988",
+            "romname": "enforce.zip",
+            "winner": true
+        },
+        {
+            "id": "2027",
+            "name": "Ultimate Tennis",
+            "company": "Art & Magic",
+            "year": "1993",
+            "romname": "ultennis.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #103 - Motos - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19216/mame-row-103-motos/1?lang=en-GB",
+            "published": "2018-09-10T12:23:07.101Z"
+        },
+        {
+            "id": "2109",
+            "name": "World Class Bowling (v1.66)",
+            "company": "Incredible Technologies",
+            "year": "1995",
+            "romname": "wcbowl.zip"
+        },
+        {
+            "id": "1118",
+            "name": "Motos",
+            "company": "Namco",
+            "year": "1985",
+            "romname": "motos.zip",
+            "winner": true
+        },
+        {
+            "id": "742",
+            "name": "Hiphopmania Complete MIX 2 (ver UA-A)",
+            "company": "Konami",
+            "year": "2000",
+            "romname": "hmcompm2.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #104 Cyber-Lip - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19310/mame-row-104-cyber-lip/1?lang=en-GB",
+            "published": "2018-09-17T16:22:27.295Z"
+        },
+        {
+            "id": "1416",
+            "name": "Point Blank",
+            "company": "Namco",
+            "year": "1994",
+            "romname": "ptblank.zip"
+        },
+        {
+            "id": "1289",
+            "name": "PlayChoice-10: Contra",
+            "company": "Konami (Nintendo of America license)",
+            "year": "1988",
+            "romname": "pc_cntra.zip"
+        },
+        {
+            "id": "369",
+            "name": "Cyber-Lip",
+            "company": "SNK",
+            "year": "1990",
+            "romname": "cyberlip.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #105 - Spy Hunter 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19407/mame-row-105-spy-hunter-2/1?lang=en-GB",
+            "published": "2018-09-24T14:44:49.593Z"
+        },
+        {
+            "id": "1781",
+            "name": "Spy Hunter 2 (rev 2)",
+            "company": "Bally Midway",
+            "year": "1987",
+            "romname": "spyhunt2.zip",
+            "winner": true
+        },
+        {
+            "id": "1291",
+            "name": "PlayChoice-10: Castlevania",
+            "company": "Konami (Nintendo of America license)",
+            "year": "1987",
+            "romname": "pc_cvnia.zip"
+        },
+        {
+            "id": "1815",
+            "name": "Starblade",
+            "company": "Namco",
+            "year": "1991",
+            "romname": "starblad.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #106 - Donkey Kong - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19475/mame-row-106-donkey-kong/1?lang=en-GB",
+            "published": "2018-10-01T11:20:40.984Z"
+        },
+        {
+            "id": "81",
+            "name": "Tetris (set 1)",
+            "company": "Atari Games",
+            "year": "1988",
+            "romname": "atetris.zip"
+        },
+        {
+            "id": "431",
+            "name": "Donkey Kong (US set 1)",
+            "company": "Nintendo of America",
+            "year": "1981",
+            "romname": "dkong.zip",
+            "winner": true
+        },
+        {
+            "id": "490",
+            "name": "The Electric Yo-Yo (set 1)",
+            "company": "Taito America Corporation",
+            "year": "1982",
+            "romname": "elecyoyo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #107 - Shinobi - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19553/mame-row-107-shinobi/1?lang=en-GB",
+            "published": "2018-10-08T14:01:26.764Z"
+        },
+        {
+            "id": "23",
+            "name": "88 Games",
+            "company": "Konami",
+            "year": "1988",
+            "romname": "88games.zip"
+        },
+        {
+            "id": "1659",
+            "name": "Shinobi (set 1)",
+            "company": "Sega",
+            "year": "1987",
+            "romname": "shinobi.zip",
+            "winner": true
+        },
+        {
+            "id": "843",
+            "name": "Kageki (US)",
+            "company": "Taito America Corporation (Romstar license)",
+            "year": "1988",
+            "romname": "kageki.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #108 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19711/mame-row-108/1?lang=en-GB",
+            "published": "2018-10-22T11:58:06.869Z"
+        },
+        {
+            "id": "41",
+            "name": "Alley Master",
+            "company": "Cinematronics",
+            "year": "1986",
+            "romname": "alleymas.zip"
+        },
+        {
+            "id": "2004",
+            "name": "Takeda Shingen (Japan, Japanese)",
+            "company": "Jaleco",
+            "year": "1988",
+            "romname": "tshingen.zip"
+        },
+        {
+            "id": "382",
+            "name": "Dark Planet",
+            "company": "Stern",
+            "year": "1982",
+            "romname": "darkplnt.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #109 - Vigilante - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19795/mame-row-109-vigilante/1?lang=en-GB",
+            "published": "2018-10-29T12:42:49.541Z"
+        },
+        {
+            "id": "1997",
+            "name": "Tropical Angel",
+            "company": "Irem",
+            "year": "1983",
+            "romname": "troangel.zip"
+        },
+        {
+            "id": "669",
+            "name": "Golden Tee Golf (Joystick, v3.1)",
+            "company": "Strata/Incredible Technologies",
+            "year": "1990",
+            "romname": "gtg.zip"
+        },
+        {
+            "id": "2067",
+            "name": "Vigilante (World)",
+            "company": "Irem",
+            "year": "1988",
+            "romname": "vigilant.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #110 - Super Spacefortress Macross II - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19880/mame-row-110-super-spacefortress-macross-ii/1?lang=en-GB",
+            "published": "2018-11-05T13:01:30.157Z"
+        },
+        {
+            "id": "974",
+            "name": "Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II",
+            "company": "Banpresto",
+            "year": "1993",
+            "romname": "macross2.zip",
+            "winner": true
+        },
+        {
+            "id": "1607",
+            "name": "Scrambled Egg",
+            "company": "Technos",
+            "year": "1983",
+            "romname": "scregg.zip"
+        },
+        {
+            "id": "2125",
+            "name": "Wit's (Japan)",
+            "company": "Athena (Visco license)",
+            "year": "1989",
+            "romname": "wits.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #111 - G.I. Joe - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/19956/mame-row-111-g-i-joe/1?lang=en-GB",
+            "published": "2018-11-12T19:33:18.873Z"
+        },
+        {
+            "id": "521",
+            "name": "Grand Prix Star",
+            "company": "Jaleco",
+            "year": "1991",
+            "romname": "f1gpstar.zip"
+        },
+        {
+            "id": "690",
+            "name": "Gururin",
+            "company": "Face",
+            "year": "1994",
+            "romname": "gururin.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "630",
+            "name": "GI Joe (World)",
+            "company": "Konami",
+            "year": "1992",
+            "romname": "gijoe.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #112- Mars Matrix: Hyper Solid Shooting - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20043/mame-row-112-mars-matrix-hyper-solid-shooting/1?lang=en-GB",
+            "published": "2018-11-19T12:21:07.931Z"
+        },
+        {
+            "id": "1097",
+            "name": "Mars Matrix: Hyper Solid Shooting (US 000412)",
+            "company": "Capcom, supported by Takumi",
+            "year": "2000",
+            "romname": "mmatrix.zip",
+            "winner": true
+        },
+        {
+            "id": "143",
+            "name": "Bionic Commando (US set 1)",
+            "company": "Capcom",
+            "year": "1987",
+            "romname": "bionicc.zip"
+        },
+        {
+            "id": "59",
+            "name": "Argus",
+            "company": "[NMK] (Jaleco license)",
+            "year": "1986",
+            "romname": "argus.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #113 - Super Cobra - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20111/mame-row-113-super-cobra/1?lang=en-GB",
+            "published": "2018-11-26T14:25:39.996Z"
+        },
+        {
+            "id": "1800",
+            "name": "Superior Soldiers (US)",
+            "company": "Irem America",
+            "year": "1993",
+            "romname": "ssoldier.zip"
+        },
+        {
+            "id": "1603",
+            "name": "Super Cobra",
+            "company": "Konami",
+            "year": "1981",
+            "romname": "scobra.zip",
+            "winner": true
+        },
+        {
+            "id": "1407",
+            "name": "Prop Cycle (Rev PR2 Ver.A)",
+            "company": "Namco",
+            "year": "1996",
+            "romname": "propcycl.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #114 - Naughty Boy - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20196/mame-row-114-naughty-boy/1?lang=en-GB",
+            "published": "2018-12-03T13:51:07.621Z"
+        },
+        {
+            "id": "192",
+            "name": "Borench",
+            "company": "Sega",
+            "year": "1990",
+            "romname": "borench.zip"
+        },
+        {
+            "id": "1725",
+            "name": "Son of Phoenix",
+            "company": "Associated Overseas MFR, Inc",
+            "year": "1985",
+            "romname": "sonofphx.zip"
+        },
+        {
+            "id": "1169",
+            "name": "Naughty Boy",
+            "company": "Jaleco",
+            "year": "1982",
+            "romname": "naughtyb.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #115 - Black Tiger - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20283/mame-row-115-black-tiger/1?lang=en-GB",
+            "published": "2018-12-10T14:43:04.802Z"
+        },
+        {
+            "id": "684",
+            "name": "Gunforce 2 (US)",
+            "company": "Irem",
+            "year": "1994",
+            "romname": "gunforc2.zip"
+        },
+        {
+            "id": "1575",
+            "name": "Safari Rally (Japan)",
+            "company": "SNK",
+            "year": "1979",
+            "romname": "safarir.zip"
+        },
+        {
+            "id": "164",
+            "name": "Black Tiger",
+            "company": "Capcom",
+            "year": "1987",
+            "romname": "blktiger.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #116 - Rapid Hero - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20351/mame-row-116-rapid-hero/1?lang=en-GB",
+            "published": "2018-12-17T16:47:30.565Z"
+        },
+        {
+            "id": "901",
+            "name": "Kram (set 1)",
+            "company": "Taito America Corporation",
+            "year": "1982",
+            "romname": "kram.zip"
+        },
+        {
+            "id": "1494",
+            "name": "Rapid Hero (Japan?)",
+            "company": "Media Trading Corp",
+            "year": "1994",
+            "romname": "raphero.zip",
+            "winner": true
+        },
+        {
+            "id": "1895",
+            "name": "Tao Taido (set 1)",
+            "company": "Video System Co.",
+            "year": "1993",
+            "romname": "taotaido.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #117 - Tank Force - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20448/mame-row-117-tank-force/1?lang=en-GB",
+            "published": "2018-12-24T22:07:04.620Z"
+        },
+        {
+            "id": "783",
+            "name": "Vs. Ice Climber",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "iceclimb.zip"
+        },
+        {
+            "id": "1893",
+            "name": "Tank Force (US)",
+            "company": "Namco",
+            "year": "1991",
+            "romname": "tankfrce.zip",
+            "winner": true
+        },
+        {
+            "id": "658",
+            "name": "Great Guns",
+            "company": "Stern",
+            "year": "1983",
+            "romname": "greatgun.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #118 - Marvel Super Heroes - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20539/mame-row-118-marvel-super-heroes/1?lang=en-GB",
+            "published": "2018-12-31T13:50:59.107Z"
+        },
+        {
+            "id": "1967",
+            "name": "Top Speed (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1987",
+            "romname": "topspeed.zip"
+        },
+        {
+            "id": "1956",
+            "name": "Toggle (prototype)",
+            "company": "Bally/Sente",
+            "year": "1985",
+            "romname": "toggle.zip"
+        },
+        {
+            "id": "1134",
+            "name": "Marvel Super Heroes (Euro 951024)",
+            "company": "Capcom",
+            "year": "1995",
+            "romname": "msh.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #119 - Boulder Dash / Boulder Dash Part 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20684/mame-row-119-boulder-dash-boulder-dash-part-2/1?lang=en-GB",
+            "published": "2019-01-07T14:41:44.682Z"
+        },
+        {
+            "id": "633",
+            "name": "Ganbare Ginkun",
+            "company": "Tecmo",
+            "year": "1995",
+            "romname": "ginkun.zip"
+        },
+        {
+            "id": "1242",
+            "name": "Psycho-Nics Oscar (US)",
+            "company": "Data East USA",
+            "year": "1988",
+            "romname": "oscar.zip"
+        },
+        {
+            "id": "195",
+            "name": "Boulder Dash / Boulder Dash Part 2 (World)",
+            "company": "Data East Corporation (licensed from First Star)",
+            "year": "1990",
+            "romname": "bouldash.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #120 - Cabal - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20814/mame-row-120-cabal/1?lang=en-GB",
+            "published": "2019-01-14T14:56:25.666Z"
+        },
+        {
+            "id": "638",
+            "name": "Guided Missile",
+            "company": "Midway",
+            "year": "1977",
+            "romname": "gmissile.zip"
+        },
+        {
+            "id": "230",
+            "name": "Cabal (US set 1)",
+            "company": "Tad (Fabtek license)",
+            "year": "1988",
+            "romname": "cabal.zip",
+            "winner": true
+        },
+        {
+            "id": "1060",
+            "name": "Minesweeper",
+            "company": "Amutech",
+            "year": "1977",
+            "romname": "mineswpr.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #121 - Dungeons & Dragons: Shadow over Mystara - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/20927/mame-row-121-dungeons-dragons-shadow-over-mystara/1?lang=en-GB",
+            "published": "2019-01-21T16:01:01.666Z"
+        },
+        {
+            "id": "400",
+            "name": "Dungeons & Dragons: Shadow over Mystara (Euro 960619)",
+            "company": "Capcom",
+            "year": "1996",
+            "romname": "ddsom.zip",
+            "winner": true
+        },
+        {
+            "id": "1510",
+            "name": "Relief Pitcher (set 1)",
+            "company": "Atari Games",
+            "year": "1992",
+            "romname": "relief.zip"
+        },
+        {
+            "id": "816",
+            "name": "Jack the Giantkiller (set 1)",
+            "company": "Cinematronics",
+            "year": "1982",
+            "romname": "jack.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #122 - Trojan - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21025/mame-row-122-trojan/1?lang=en-GB",
+            "published": "2019-01-28T13:16:40.310Z"
+        },
+        {
+            "id": "398",
+            "name": "Double Dragon II - The Revenge (World)",
+            "company": "Technos",
+            "year": "1988",
+            "romname": "ddragon2.zip"
+        },
+        {
+            "id": "1999",
+            "name": "Trojan (US)",
+            "company": "Capcom",
+            "year": "1986",
+            "romname": "trojan.zip",
+            "winner": true
+        },
+        {
+            "id": "887",
+            "name": "The King of Fighters '96 (set 1)",
+            "company": "SNK",
+            "year": "1996",
+            "romname": "kof96.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #123 - War of the Bugs or Monsterous Manouvers in a Mushroom Maze - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21118/mame-row-123-war-of-the-bugs-or-monsterous-manouvers-in-a-mushroom-maze/1?lang=en-GB",
+            "published": "2019-02-04T13:21:33.241Z"
+        },
+        {
+            "id": "2100",
+            "name": "War of the Bugs or Monsterous Manouvers in a Mushroom Maze",
+            "company": "Armenia",
+            "year": "1981",
+            "romname": "warofbug.zip",
+            "winner": true
+        },
+        {
+            "id": "370",
+            "name": "Cyberbots: Fullmetal Madness (US 950424)",
+            "company": "Capcom",
+            "year": "1995",
+            "romname": "cybots.zip"
+        },
+        {
+            "id": "1863",
+            "name": "The Super Spy",
+            "company": "SNK",
+            "year": "1990",
+            "romname": "superspy.zip",
+            "bios": "neogeo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #124 - Space Stranger 2 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21213/mame-row-124-space-stranger-2/1?lang=en-GB",
+            "published": "2019-02-11T14:38:00.980Z"
+        },
+        {
+            "id": "1810",
+            "name": "Space Stranger 2",
+            "company": "Yachiyo Electronics, Ltd.",
+            "year": "1979",
+            "romname": "sstrngr2.zip",
+            "winner": true
+        },
+        {
+            "id": "1298",
+            "name": "PlayChoice-10: Gauntlet",
+            "company": "Atari/Tengen (Nintendo of America license)",
+            "year": "1985",
+            "romname": "pc_gntlt.zip"
+        },
+        {
+            "id": "2089",
+            "name": "Vs. Tennis",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "vstennis.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #125 - Strikers 1945 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21311/mame-row-125-strikers-1945/1?lang=en-GB",
+            "published": "2019-02-18T13:31:51.552Z"
+        },
+        {
+            "id": "1868",
+            "name": "Super Locomotive",
+            "company": "Sega",
+            "year": "1982",
+            "romname": "suprloco.zip"
+        },
+        {
+            "id": "1568",
+            "name": "Strikers 1945",
+            "company": "Psikyo",
+            "year": "1995",
+            "romname": "s1945.zip",
+            "winner": true
+        },
+        {
+            "id": "49",
+            "name": "Angel Kids (Japan)",
+            "company": "Sega / Nasco?",
+            "year": "1988",
+            "romname": "angelkds.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #126 - X Multiply - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21416/mame-row-126-x-multiply/1?lang=en-GB",
+            "published": "2019-02-25T17:24:18.056Z"
+        },
+        {
+            "id": "2154",
+            "name": "X Multiply (Japan)",
+            "company": "Irem",
+            "year": "1989",
+            "romname": "xmultipl.zip",
+            "winner": true
+        },
+        {
+            "id": "1770",
+            "name": "Splat!",
+            "company": "Williams",
+            "year": "1982",
+            "romname": "splat.zip"
+        },
+        {
+            "id": "619",
+            "name": "Gekirindan (Japan)",
+            "company": "Taito Corporation",
+            "year": "1995",
+            "romname": "gekirido.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #127 - Dragon Breed - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21514/mame-row-127-dragon-breed/1?lang=en-GB",
+            "published": "2019-03-04T15:53:43.027Z"
+        },
+        {
+            "id": "1418",
+            "name": "Puckman Pockimon",
+            "company": "Genie",
+            "year": "2000",
+            "romname": "puckpkmn.zip"
+        },
+        {
+            "id": "1290",
+            "name": "PlayChoice-10: Captain Sky Hawk",
+            "company": "Rare (Nintendo of America license)",
+            "year": "1989",
+            "romname": "pc_cshwk.zip"
+        },
+        {
+            "id": "390",
+            "name": "Dragon Breed",
+            "company": "Irem",
+            "year": "1989",
+            "romname": "dbreed.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #128 - Cameltry - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21603/mame-row-128-cameltry/1?lang=en-GB",
+            "published": "2019-03-11T13:24:51.752Z"
+        },
+        {
+            "id": "237",
+            "name": "Cameltry (US)",
+            "company": "Taito America Corporation",
+            "year": "1989",
+            "romname": "cameltry.zip",
+            "winner": true
+        },
+        {
+            "id": "1342",
+            "name": "The Percussor",
+            "company": "Orca",
+            "year": "1981",
+            "romname": "percuss.zip"
+        },
+        {
+            "id": "359",
+            "name": "The Combatribes (US)",
+            "company": "Technos",
+            "year": "1990",
+            "romname": "ctribe.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #129 - Gun & Frontier - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21673/mame-row-129-gun-frontier/1?lang=en-GB",
+            "published": "2019-03-18T15:16:09.834Z"
+        },
+        {
+            "id": "686",
+            "name": "Gun & Frontier (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1990",
+            "romname": "gunfront.zip",
+            "winner": true
+        },
+        {
+            "id": "1151",
+            "name": "Mutant Fighter (World Rev 4, EM-5)",
+            "company": "Data East Corporation",
+            "year": "1992",
+            "romname": "mutantf.zip"
+        },
+        {
+            "id": "726",
+            "name": "Hebereke no Popoon (Japan)",
+            "company": "Sunsoft / Atlus",
+            "year": "1994",
+            "romname": "heberpop.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #130 - Liquid Kids - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21751/mame-row-130-liquid-kids/1?lang=en-GB",
+            "published": "2019-03-25T14:28:19.368Z"
+        },
+        {
+            "id": "1192",
+            "name": "Nibbler (set 1)",
+            "company": "Rock-ola",
+            "year": "1982",
+            "romname": "nibbler.zip"
+        },
+        {
+            "id": "944",
+            "name": "Liquid Kids (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1990",
+            "romname": "liquidk.zip",
+            "winner": true
+        },
+        {
+            "id": "2046",
+            "name": "Valtric",
+            "company": "[NMK] (Jaleco license)",
+            "year": "1986",
+            "romname": "valtric.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #131 - Satan of Saturn - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21827/mame-row-131-satan-of-saturn/1?lang=en-GB",
+            "published": "2019-04-01T14:37:45.041Z"
+        },
+        {
+            "id": "2015",
+            "name": "Turtles",
+            "company": "[Konami] (Stern license)",
+            "year": "1981",
+            "romname": "turtles.zip"
+        },
+        {
+            "id": "1587",
+            "name": "Satan of Saturn",
+            "company": "SNK",
+            "year": "1981",
+            "romname": "satansat.zip",
+            "winner": true
+        },
+        {
+            "id": "2164",
+            "name": "10 Yard Fight (Japan)",
+            "company": "Irem",
+            "year": "1983",
+            "romname": "yard.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #132 - T-MEK - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21907/mame-row-132-t-mek/1?lang=en-GB",
+            "published": "2019-04-08T15:20:09.852Z"
+        },
+        {
+            "id": "1214",
+            "name": "Night Stocker",
+            "company": "Bally/Sente",
+            "year": "1986",
+            "romname": "nstocker.zip"
+        },
+        {
+            "id": "1639",
+            "name": "Street Football",
+            "company": "Bally/Sente",
+            "year": "1986",
+            "romname": "sfootbal.zip"
+        },
+        {
+            "id": "1947",
+            "name": "T-MEK",
+            "company": "Atari Games",
+            "year": "1994",
+            "romname": "tmek.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #133 - Palamedes - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/21977/mame-row-133-palamedes/1?lang=en-GB",
+            "published": "2019-04-15T15:54:03.415Z"
+        },
+        {
+            "id": "456",
+            "name": "Dragoon Might (ver JAA)",
+            "company": "Konami",
+            "year": "1995",
+            "romname": "dragoonj.zip"
+        },
+        {
+            "id": "1263",
+            "name": "Palamedes (Japan)",
+            "company": "Taito Corporation",
+            "year": "1990",
+            "romname": "palamed.zip",
+            "winner": true
+        },
+        {
+            "id": "2013",
+            "name": "Turbo Force",
+            "company": "Video System Co.",
+            "year": "1991",
+            "romname": "turbofrc.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #134 - Arkanoid - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22052/mame-row-134-arkanoid/1?lang=en-GB",
+            "published": "2019-04-22T13:31:11.475Z"
+        },
+        {
+            "id": "1193",
+            "name": "Night Striker (US)",
+            "company": "Taito America Corporation",
+            "year": "1989",
+            "romname": "nightstr.zip"
+        },
+        {
+            "id": "2148",
+            "name": "Wai Wai Jockey Gate-In!",
+            "company": "Jaleco / Casio",
+            "year": "1984",
+            "romname": "wwjgtin.zip"
+        },
+        {
+            "id": "60",
+            "name": "Arkanoid (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1986",
+            "romname": "arkanoid.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #135 - Burning Fight - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22110/mame-row-135-burning-fight/6?lang=en-GB",
+            "published": "2019-04-29T13:44:16.212Z"
+        },
+        {
+            "id": "168",
+            "name": "Block Carnival / Thunder & Lightning 2",
+            "company": "Visco",
+            "year": "1992",
+            "romname": "blockcar.zip"
+        },
+        {
+            "id": "226",
+            "name": "Burning Fight (set 1)",
+            "company": "SNK",
+            "year": "1991",
+            "romname": "burningf.zip",
+            "bios": "neogeo.zip",
+            "winner": true
+        },
+        {
+            "id": "1769",
+            "name": "Splash! (Ver. 1.2 World)",
+            "company": "Gaelco",
+            "year": "1992",
+            "romname": "splash.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #136 - Master of Weapon - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22182/mame-row-136-master-of-weapon/1?lang=en-GB",
+            "published": "2019-05-06T13:52:31.402Z"
+        },
+        {
+            "id": "1801",
+            "name": "Syusse Oozumou (Japan)",
+            "company": "Technos",
+            "year": "1984",
+            "romname": "ssozumo.zip"
+        },
+        {
+            "id": "1796",
+            "name": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi",
+            "company": "SNK",
+            "year": "1995",
+            "romname": "ssideki3.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1011",
+            "name": "Master of Weapon (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1989",
+            "romname": "masterw.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #137 - Bomb Jack - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22241/mame-row-137-bomb-jack/1?lang=en-GB",
+            "published": "2019-05-12T21:18:28.503Z"
+        },
+        {
+            "id": "189",
+            "name": "Bomb Jack (set 1)",
+            "company": "Tehkan",
+            "year": "1984",
+            "romname": "bombjack.zip",
+            "winner": true
+        },
+        {
+            "id": "820",
+            "name": "Vs. Ninja Jajamaru Kun (Japan)",
+            "company": "Jaleco",
+            "year": "1985",
+            "romname": "jajamaru.zip"
+        },
+        {
+            "id": "771",
+            "name": "Hustle",
+            "company": "Gremlin",
+            "year": "1977",
+            "romname": "hustle.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #138 - Pretty Soldier Sailor Moon - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22313/mame-row-138-pretty-soldier-sailor-moon/1?lang=en-GB",
+            "published": "2019-05-19T13:50:06.178Z"
+        },
+        {
+            "id": "1959",
+            "name": "Taisen Tokkae-dama (ver JAA)",
+            "company": "Konami",
+            "year": "1996",
+            "romname": "tokkae.zip"
+        },
+        {
+            "id": "1399",
+            "name": "Power Drive",
+            "company": "Bally Midway",
+            "year": "1986",
+            "romname": "powerdrv.zip"
+        },
+        {
+            "id": "1576",
+            "name": "Pretty Soldier Sailor Moon (95/03/22B)",
+            "company": "Banpresto",
+            "year": "1995",
+            "romname": "sailormn.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #139 - Kitten Kaboodle - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22385/mame-row-139-kitten-kaboodle/1?lang=en-GB",
+            "published": "2019-05-27T11:10:38.183Z"
+        },
+        {
+            "id": "451",
+            "name": "Dottori Kun (new version)",
+            "company": "Sega",
+            "year": "1990",
+            "romname": "dotrikun.zip"
+        },
+        {
+            "id": "1807",
+            "name": "Super Speed Race Junior (Japan)",
+            "company": "Taito Corporation",
+            "year": "1985",
+            "romname": "ssrj.zip"
+        },
+        {
+            "id": "875",
+            "name": "Kitten Kaboodle",
+            "company": "Konami",
+            "year": "1988",
+            "romname": "kittenk.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #140 - Donkey Kong 3 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22667/mame-row-140-donkey-kong-3/1?lang=en-GB",
+            "published": "2019-06-24T13:34:53.339Z"
+        },
+        {
+            "id": "1426",
+            "name": "Puyo Puyo 2 (Japan)",
+            "company": "Compile (Sega license)",
+            "year": "1994",
+            "romname": "puyopuy2.zip"
+        },
+        {
+            "id": "447",
+            "name": "DonPachi (US)",
+            "company": "Atlus/Cave",
+            "year": "1995",
+            "romname": "donpachi.zip"
+        },
+        {
+            "id": "432",
+            "name": "Donkey Kong 3 (US)",
+            "company": "Nintendo of America",
+            "year": "1983",
+            "romname": "dkong3.zip",
+            "winner": true
+        },
+        {
+            "id": "758",
+            "name": "Hotdog Storm",
+            "company": "Marble",
+            "year": "1996",
+            "romname": "hotdogst.zip"
+        },
+        {
+            "id": "243",
+            "name": "Captain Commando (World 911014)",
+            "company": "Capcom",
+            "year": "1991",
+            "romname": "captcomm.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #141 - Cyvern - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/22843/mame-row-141-cyvern/1?lang=en-GB",
+            "published": "2019-07-08T13:21:23.832Z"
+        },
+        {
+            "id": "371",
+            "name": "Cyvern",
+            "company": "Kaneko",
+            "year": "1998",
+            "romname": "cyvern.zip",
+            "bios": "skns.zip",
+            "winner": true
+        },
+        {
+            "id": "1316",
+            "name": "PlayChoice-10: RC Pro Am",
+            "company": "Rare",
+            "year": "1987",
+            "romname": "pc_rcpam.zip"
+        },
+        {
+            "id": "1013",
+            "name": "Mat Mania",
+            "company": "Technos (Taito America license)",
+            "year": "1985",
+            "romname": "matmania.zip"
+        },
+        {
+            "id": "1411",
+            "name": "Power Spikes II",
+            "company": "Video System Co.",
+            "year": "1994",
+            "romname": "pspikes2.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "934",
+            "name": "Lemmings (US Prototype)",
+            "company": "Data East USA",
+            "year": "1991",
+            "romname": "lemmings.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #142 - Vs. Excitebike - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23038/mame-row-142-vs-excitebike/1?lang=en-GB",
+            "published": "2019-07-23T13:29:10.896Z"
+        },
+        {
+            "id": "1187",
+            "name": "Net Wars",
+            "company": "Orca (Esco Trading Co license)",
+            "year": "1983",
+            "romname": "netwars.zip"
+        },
+        {
+            "id": "391",
+            "name": "Dragonball Z",
+            "company": "Banpresto",
+            "year": "1993",
+            "romname": "dbz.zip"
+        },
+        {
+            "id": "1385",
+            "name": "Poly-Play",
+            "company": "VEB Polytechnik Karl-Marx-Stadt",
+            "year": "1985",
+            "romname": "polyplay.zip"
+        },
+        {
+            "id": "1830",
+            "name": "Strike Gunner S.T.G",
+            "company": "Athena / Tecmo",
+            "year": "1991",
+            "romname": "stg.zip"
+        },
+        {
+            "id": "506",
+            "name": "Vs. Excitebike",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "excitebk.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #143 - Pengo - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23157/mame-row-143-pengo/1?lang=en-GB",
+            "published": "2019-08-05T13:41:14.204Z"
+        },
+        {
+            "id": "595",
+            "name": "Galaxy Gunners",
+            "company": "Electronic Devices Italy",
+            "year": "1989",
+            "romname": "galaxygn.zip"
+        },
+        {
+            "id": "91",
+            "name": "Baku Baku Animal",
+            "company": "Sega",
+            "year": "1996",
+            "romname": "bakubaku.zip"
+        },
+        {
+            "id": "1704",
+            "name": "Sly Spy (US revision 3)",
+            "company": "Data East USA",
+            "year": "1989",
+            "romname": "slyspy.zip"
+        },
+        {
+            "id": "1340",
+            "name": "Pengo (set 1 rev c)",
+            "company": "Sega",
+            "year": "1982",
+            "romname": "pengo.zip",
+            "winner": true
+        },
+        {
+            "id": "321",
+            "name": "Cops'n Robbers",
+            "company": "Atari",
+            "year": "1976",
+            "romname": "copsnrob.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #144 - Escape from the Planet of the Robot Monsters - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23292/mame-row-144-escape-from-the-planet-of-the-robot-monsters/1?lang=en-GB",
+            "published": "2019-08-19T13:25:13.273Z"
+        },
+        {
+            "id": "167",
+            "name": "Blockade",
+            "company": "Gremlin",
+            "year": "1976",
+            "romname": "blockade.zip"
+        },
+        {
+            "id": "1958",
+            "name": "Toki no Senshi - Chrono Soldier",
+            "company": "Sega",
+            "year": "1987",
+            "romname": "tokisens.zip"
+        },
+        {
+            "id": "1433",
+            "name": "Puzz Loop (Europe)",
+            "company": "Mitchell",
+            "year": "1998",
+            "romname": "puzzloop.zip",
+            "bios": "skns.zip"
+        },
+        {
+            "id": "780",
+            "name": "Hyper Pacman",
+            "company": "SemiCom",
+            "year": "1995",
+            "romname": "hyperpac.zip"
+        },
+        {
+            "id": "499",
+            "name": "Escape from the Planet of the Robot Monsters (set 1)",
+            "company": "Atari Games",
+            "year": "1989",
+            "romname": "eprom.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #145 - Bombjack Twin - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23405/mame-row-145-bombjack-twin/1?lang=en-GB",
+            "published": "2019-09-02T11:23:37.760Z"
+        },
+        {
+            "id": "148",
+            "name": "Bombjack Twin",
+            "company": "NMK",
+            "year": "1993",
+            "romname": "bjtwin.zip",
+            "winner": true
+        },
+        {
+            "id": "1197",
+            "name": "Ninjakun Majou no Bouken",
+            "company": "[UPL] (Taito license)",
+            "year": "1984",
+            "romname": "ninjakun.zip"
+        },
+        {
+            "id": "1924",
+            "name": "The Pit",
+            "company": "Centuri",
+            "year": "1982",
+            "romname": "thepit.zip"
+        },
+        {
+            "id": "1133",
+            "name": "Mobile Suit Gundam",
+            "company": "Banpresto",
+            "year": "1993",
+            "romname": "msgundam.zip"
+        },
+        {
+            "id": "225",
+            "name": "Burning Force (Japan)",
+            "company": "Namco",
+            "year": "1989",
+            "romname": "burnforc.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #146 - No Man's Land - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23552/mame-row-146-no-man-s-land/1?lang=en-GB",
+            "published": "2019-09-16T15:06:39.604Z"
+        },
+        {
+            "id": "326",
+            "name": "Cotton Boomerang",
+            "company": "Success",
+            "year": "1998",
+            "romname": "cottonbm.zip"
+        },
+        {
+            "id": "308",
+            "name": "Columns (US)",
+            "company": "Sega",
+            "year": "1990",
+            "romname": "columns.zip"
+        },
+        {
+            "id": "1582",
+            "name": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin",
+            "company": "SNK",
+            "year": "1996",
+            "romname": "samsho4.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1207",
+            "name": "No Man's Land",
+            "company": "Universal",
+            "year": "1980",
+            "romname": "nomnlnd.zip",
+            "winner": true
+        },
+        {
+            "id": "1594",
+            "name": "Sonic Blast Man (Japan)",
+            "company": "Taito Corporation",
+            "year": "1990",
+            "romname": "sbm.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #147 - Ultra Balloon - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23681/mame-row-147-ultra-balloon/1?lang=en-GB",
+            "published": "2019-10-01T12:42:51.897Z"
+        },
+        {
+            "id": "2024",
+            "name": "Ultra Balloon",
+            "company": "SunA",
+            "year": "1996",
+            "romname": "uballoon.zip",
+            "winner": true
+        },
+        {
+            "id": "1629",
+            "name": "Sen-Know (Japan)",
+            "company": "Kaneko / Kouyousha",
+            "year": "1999",
+            "romname": "senknow.zip",
+            "bios": "skns.zip"
+        },
+        {
+            "id": "687",
+            "name": "Gunlock (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1993",
+            "romname": "gunlock.zip"
+        },
+        {
+            "id": "1194",
+            "name": "Ninja Clowns (08/27/91)",
+            "company": "Strata/Incredible Technologies",
+            "year": "1991",
+            "romname": "ninclown.zip"
+        },
+        {
+            "id": "1274",
+            "name": "Pass",
+            "company": "Oksan",
+            "year": "1992",
+            "romname": "pass.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #148 - Cloak & Dagger - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23780/mame-row-148-cloak-dagger/1?lang=en-GB",
+            "published": "2019-10-14T17:03:56.226Z"
+        },
+        {
+            "id": "1927",
+            "name": "Thunder Zone (World)",
+            "company": "Data East Corporation",
+            "year": "1991",
+            "romname": "thndzone.zip"
+        },
+        {
+            "id": "1818",
+            "name": "Star Force",
+            "company": "Tehkan",
+            "year": "1984",
+            "romname": "starforc.zip"
+        },
+        {
+            "id": "328",
+            "name": "Cassette: Pro Bowling",
+            "company": "DECO",
+            "year": "1983",
+            "romname": "cprobowl.zip"
+        },
+        {
+            "id": "238",
+            "name": "Cannon Ball",
+            "company": "Yun Sung / Soft Vision",
+            "year": "1995",
+            "romname": "cannball.zip"
+        },
+        {
+            "id": "296",
+            "name": "Cloak & Dagger (rev 5)",
+            "company": "Atari",
+            "year": "1983",
+            "romname": "cloak.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #149 - Bio-ship Paladin - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/23895/mame-row-149-bio-ship-paladin/1?lang=en-GB",
+            "published": "2019-10-29T14:45:55.666Z"
+        },
+        {
+            "id": "1328",
+            "name": "PlayChoice-10: Track & Field",
+            "company": "Konami (Nintendo of America license)",
+            "year": "1987",
+            "romname": "pc_tkfld.zip"
+        },
+        {
+            "id": "444",
+            "name": "Dommy",
+            "company": "Technos",
+            "year": "",
+            "romname": "dommy.zip"
+        },
+        {
+            "id": "1231",
+            "name": "Oli-Boo-Chu",
+            "company": "Irem + GDI",
+            "year": "1981",
+            "romname": "olibochu.zip"
+        },
+        {
+            "id": "144",
+            "name": "Bio-ship Paladin",
+            "company": "UPL (American Sammy license)",
+            "year": "1990",
+            "romname": "bioship.zip",
+            "winner": true
+        },
+        {
+            "id": "2090",
+            "name": "Vs. Tetris",
+            "company": "Academysoft-Elory",
+            "year": "1987",
+            "romname": "vstetris.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #150 - 1942 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24008/mame-row-150-1942/1?lang=en-GB",
+            "published": "2019-11-11T13:13:32.482Z"
+        },
+        {
+            "id": "4",
+            "name": "1942 (set 1)",
+            "company": "Capcom",
+            "year": "1984",
+            "romname": "1942.zip",
+            "winner": true
+        },
+        {
+            "id": "426",
+            "name": "Cadillacs and Dinosaurs (World 930201)",
+            "company": "Capcom",
+            "year": "1993",
+            "romname": "dino.zip"
+        },
+        {
+            "id": "216",
+            "name": "Battle Toads",
+            "company": "Rare",
+            "year": "1994",
+            "romname": "btoads.zip"
+        },
+        {
+            "id": "1140",
+            "name": "Metal Slug - Super Vehicle-001",
+            "company": "Nazca",
+            "year": "1996",
+            "romname": "mslug.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "318",
+            "name": "Contra (US)",
+            "company": "Konami",
+            "year": "1987",
+            "romname": "contra.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #151 - Cross Pang - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24117/mame-row-151-cross-pang/1?lang=en-GB",
+            "published": "2019-11-25T21:30:45.501Z"
+        },
+        {
+            "id": "1745",
+            "name": "Spatter",
+            "company": "Sega",
+            "year": "1984",
+            "romname": "spatter.zip"
+        },
+        {
+            "id": "832",
+            "name": "Joust 2 - Survival of the Fittest (set 1)",
+            "company": "Williams",
+            "year": "1986",
+            "romname": "joust2.zip"
+        },
+        {
+            "id": "37",
+            "name": "Ali Baba and 40 Thieves",
+            "company": "Sega",
+            "year": "1982",
+            "romname": "alibaba.zip"
+        },
+        {
+            "id": "341",
+            "name": "Cross Pang",
+            "company": "Oksan?",
+            "year": "",
+            "romname": "crospang.zip",
+            "winner": true
+        },
+        {
+            "id": "679",
+            "name": "Mobile Suit Gundam EX Revue",
+            "company": "Banpresto",
+            "year": "1994",
+            "romname": "gundamex.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #152 - Vs. Castlevania - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24249/mame-row-152-vs-castlevania/1?lang=en-GB",
+            "published": "2019-12-09T18:36:34.822Z"
+        },
+        {
+            "id": "987",
+            "name": "Magical Spot II",
+            "company": "Universal",
+            "year": "1980",
+            "romname": "magspot2.zip"
+        },
+        {
+            "id": "2168",
+            "name": "Youjyuden (Japan)",
+            "company": "Irem",
+            "year": "1986",
+            "romname": "youjyudn.zip"
+        },
+        {
+            "id": "2",
+            "name": "5",
+            "company": "Sega",
+            "year": "1981",
+            "romname": "005.zip"
+        },
+        {
+            "id": "353",
+            "name": "Vs. Castlevania",
+            "company": "Konami",
+            "year": "1987",
+            "romname": "cstlevna.zip",
+            "winner": true
+        },
+        {
+            "id": "179",
+            "name": "Blazing Tornado",
+            "company": "Human Amusement",
+            "year": "1994",
+            "romname": "blzntrnd.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #153 - Rally X - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24423/mame-row-153-rally-x/1?lang=en-GB",
+            "published": "2019-12-31T00:12:54.130Z"
+        },
+        {
+            "id": "740",
+            "name": "Hit Me",
+            "company": "RamTek",
+            "year": "1976",
+            "romname": "hitme.zip"
+        },
+        {
+            "id": "1348",
+            "name": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer",
+            "company": "Saurus",
+            "year": "1996",
+            "romname": "pgoal.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1647",
+            "name": "Shadow Force (US Version 2)",
+            "company": "Technos Japan",
+            "year": "1993",
+            "romname": "shadfrce.zip"
+        },
+        {
+            "id": "1811",
+            "name": "Space Tactics",
+            "company": "Sega",
+            "year": "1981",
+            "romname": "stactics.zip"
+        },
+        {
+            "id": "1491",
+            "name": "Rally X",
+            "company": "Namco",
+            "year": "1980",
+            "romname": "rallyx.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #154 - Galmedes - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24538/mame-row-154-galmedes/1?lang=en-GB",
+            "published": "2020-01-13T12:51:17.409Z"
+        },
+        {
+            "id": "600",
+            "name": "Galmedes (Japan)",
+            "company": "Visco",
+            "year": "1992",
+            "romname": "galmedes.zip",
+            "winner": true
+        },
+        {
+            "id": "691",
+            "name": "Guts'n (Japan)",
+            "company": "Kaneko / Kouyousha",
+            "year": "2000",
+            "romname": "gutsn.zip",
+            "bios": "skns.zip"
+        },
+        {
+            "id": "215",
+            "name": "Vs. Battle City",
+            "company": "Namco",
+            "year": "1985",
+            "romname": "btlecity.zip"
+        },
+        {
+            "id": "910",
+            "name": "Kyuukai Douchuuki (Japan new version)",
+            "company": "Namco",
+            "year": "1990",
+            "romname": "kyukaidk.zip"
+        },
+        {
+            "id": "2033",
+            "name": "Under Fire (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1993",
+            "romname": "undrfire.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #155 - 1943 - The Battle of Midway - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24697/mame-row-155-1943-the-battle-of-midway/1?lang=en-GB",
+            "published": "2020-01-27T13:21:46.573Z"
+        },
+        {
+            "id": "861",
+            "name": "Kick (upright)",
+            "company": "Midway",
+            "year": "1981",
+            "romname": "kick.zip"
+        },
+        {
+            "id": "406",
+            "name": "Defender (Red label)",
+            "company": "Williams",
+            "year": "1980",
+            "romname": "defender.zip"
+        },
+        {
+            "id": "649",
+            "name": "Vs. The Goonies",
+            "company": "Konami",
+            "year": "1986",
+            "romname": "goonies.zip"
+        },
+        {
+            "id": "5",
+            "name": "1943 - The Battle of Midway (US)",
+            "company": "Capcom",
+            "year": "1987",
+            "romname": "1943.zip",
+            "winner": true
+        },
+        {
+            "id": "283",
+            "name": "Chuka Taisen (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1988",
+            "romname": "chukatai.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #156 - Aero Fighters - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24831/mame-row-156-aero-fighters/1?lang=en-GB",
+            "published": "2020-02-10T13:26:55.658Z"
+        },
+        {
+            "id": "584",
+            "name": "Future Spy",
+            "company": "Sega",
+            "year": "1984",
+            "romname": "futspy.zip"
+        },
+        {
+            "id": "1394",
+            "name": "Popper",
+            "company": "Omori Electric Co., Ltd.",
+            "year": "1983",
+            "romname": "popper.zip"
+        },
+        {
+            "id": "1667",
+            "name": "Showdown (version 5.0)",
+            "company": "Exidy",
+            "year": "1988",
+            "romname": "showdown.zip"
+        },
+        {
+            "id": "248",
+            "name": "Cavelon",
+            "company": "Jetsoft",
+            "year": "1983",
+            "romname": "cavelon.zip"
+        },
+        {
+            "id": "31",
+            "name": "Aero Fighters",
+            "company": "Video System Co.",
+            "year": "1992",
+            "romname": "aerofgt.zip",
+            "winner": true
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #157 - Radar Scope - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/24966/mame-row-157-radar-scope/1?lang=en-GB",
+            "published": "2020-02-24T13:26:27.873Z"
+        },
+        {
+            "id": "2176",
+            "name": "Zero Point 2",
+            "company": "Unico",
+            "year": "1999",
+            "romname": "zeropnt2.zip"
+        },
+        {
+            "id": "1369",
+            "name": "Vs. Platoon",
+            "company": "Ocean Software Limited",
+            "year": "1987",
+            "romname": "platoon.zip"
+        },
+        {
+            "id": "178",
+            "name": "Blue Shark",
+            "company": "Midway",
+            "year": "1978",
+            "romname": "blueshrk.zip"
+        },
+        {
+            "id": "1482",
+            "name": "Radar Scope",
+            "company": "Nintendo",
+            "year": "1980",
+            "romname": "radarscp.zip",
+            "winner": true
+        },
+        {
+            "id": "733",
+            "name": "Hexion (Japan)",
+            "company": "Konami",
+            "year": "1992",
+            "romname": "hexion.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #158 - Prehistoric Isle in 1930 - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/25095/mame-row-158-prehistoric-isle-in-1930/1?lang=en-GB",
+            "published": "2020-03-09T14:27:15.389Z"
+        },
+        {
+            "id": "798",
+            "name": "Danny Sullivan's Indy Heat",
+            "company": "Leland Corp.",
+            "year": "1991",
+            "romname": "indyheat.zip"
+        },
+        {
+            "id": "694",
+            "name": "Guerrilla War (US)",
+            "company": "SNK",
+            "year": "1987",
+            "romname": "gwar.zip"
+        },
+        {
+            "id": "1513",
+            "name": "Rescue Raider",
+            "company": "Bally/Midway",
+            "year": "1987",
+            "romname": "rescraid.zip"
+        },
+        {
+            "id": "1402",
+            "name": "Prehistoric Isle in 1930 (World)",
+            "company": "SNK",
+            "year": "1989",
+            "romname": "prehisle.zip",
+            "winner": true
+        },
+        {
+            "id": "208",
+            "name": "Brute Force",
+            "company": "Leland Corp.",
+            "year": "1991",
+            "romname": "brutforc.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #159 - In The Hunt - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/25212/mame-row-159-in-the-hunt/1?lang=en-GB",
+            "published": "2020-03-23T12:16:03.888Z"
+        },
+        {
+            "id": "1567",
+            "name": "Ryu Jin (Japan)",
+            "company": "Taito Corporation",
+            "year": "1993",
+            "romname": "ryujin.zip"
+        },
+        {
+            "id": "1269",
+            "name": "Panic Bomber",
+            "company": "Eighting / Hudson",
+            "year": "1994",
+            "romname": "panicbom.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "803",
+            "name": "In The Hunt (World)",
+            "company": "Irem",
+            "year": "1993",
+            "romname": "inthunt.zip",
+            "winner": true
+        },
+        {
+            "id": "21",
+            "name": "720 Degrees (rev 4)",
+            "company": "Atari Games",
+            "year": "1986",
+            "romname": "720.zip"
+        },
+        {
+            "id": "2017",
+            "name": "TwinBee",
+            "company": "Konami",
+            "year": "1985",
+            "romname": "twinbee.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #160 - Ms. Pac-Man - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/25401/mame-row-160-ms-pac-man/1?lang=en-GB",
+            "published": "2020-04-06T14:46:48.236Z"
+        },
+        {
+            "id": "948",
+            "name": "Lock'n'Chase",
+            "company": "Data East Corporation",
+            "year": "1981",
+            "romname": "lnc.zip"
+        },
+        {
+            "id": "1142",
+            "name": "Ms. Pac-Man",
+            "company": "Midway",
+            "year": "1981",
+            "romname": "mspacman.zip",
+            "winner": true
+        },
+        {
+            "id": "912",
+            "name": "Lady Bug",
+            "company": "Universal",
+            "year": "1981",
+            "romname": "ladybug.zip"
+        },
+        {
+            "id": "835",
+            "name": "Jr. Pac-Man",
+            "company": "Bally Midway",
+            "year": "1983",
+            "romname": "jrpacman.zip"
+        },
+        {
+            "id": "1145",
+            "name": "Mouse Trap (version 5)",
+            "company": "Exidy",
+            "year": "1981",
+            "romname": "mtrap.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #161 - Hoccer - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/25596/mame-row-161-hoccer/1?lang=en-GB",
+            "published": "2020-04-20T12:35:06.772Z"
+        },
+        {
+            "id": "745",
+            "name": "Hoccer (set 1)",
+            "company": "Eastern Micro Electronics, Inc.",
+            "year": "1983",
+            "romname": "hoccer.zip",
+            "winner": true
+        },
+        {
+            "id": "101",
+            "name": "Bang Bang Ball (v1.05)",
+            "company": "Banpresto / Kunihiko Tashiro+Goodhouse",
+            "year": "1996",
+            "romname": "bangball.zip"
+        },
+        {
+            "id": "1299",
+            "name": "PlayChoice-10: Golf",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "pc_golf.zip"
+        },
+        {
+            "id": "1681",
+            "name": "Sindbad Mystery",
+            "company": "Sega",
+            "year": "1983",
+            "romname": "sindbadm.zip"
+        },
+        {
+            "id": "870",
+            "name": "Kick Start Wheelie King",
+            "company": "Taito Corporation",
+            "year": "1984",
+            "romname": "kikstart.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #162 - Spy Hunter - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/25872/mame-row-162-spy-hunter/1?lang=en-GB",
+            "published": "2020-05-04T13:47:07.783Z"
+        },
+        {
+            "id": "666",
+            "name": "Grand Striker 2 (Japan)",
+            "company": "Human Amusement",
+            "year": "1996",
+            "romname": "gstrik2.zip"
+        },
+        {
+            "id": "936",
+            "name": "Leprechaun",
+            "company": "Tong Electronic",
+            "year": "1982",
+            "romname": "leprechn.zip"
+        },
+        {
+            "id": "1780",
+            "name": "Spy Hunter",
+            "company": "Bally Midway",
+            "year": "1983",
+            "romname": "spyhunt.zip",
+            "winner": true
+        },
+        {
+            "id": "1126",
+            "name": "Mr. Goemon (Japan)",
+            "company": "Konami",
+            "year": "1986",
+            "romname": "mrgoemon.zip"
+        },
+        {
+            "id": "1826",
+            "name": "Star Trek",
+            "company": "Sega",
+            "year": "1982",
+            "romname": "startrek.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #163 - Shadow Warriors - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/26205/mame-row-163-shadow-warriors/1?lang=en-GB",
+            "published": "2020-05-18T13:53:12.964Z"
+        },
+        {
+            "id": "223",
+            "name": "Bull Fighter",
+            "company": "Alpha Denshi Co. (Sega license)",
+            "year": "1984",
+            "romname": "bullfgtr.zip"
+        },
+        {
+            "id": "1649",
+            "name": "Shadow Warriors (World set 1)",
+            "company": "Tecmo",
+            "year": "1988",
+            "romname": "shadoww.zip",
+            "winner": true
+        },
+        {
+            "id": "1266",
+            "name": "Pang! 3 (Euro 950511)",
+            "company": "Mitchell",
+            "year": "1995",
+            "romname": "pang3.zip"
+        },
+        {
+            "id": "272",
+            "name": "Cheese Chase",
+            "company": "Art & Magic",
+            "year": "1994",
+            "romname": "cheesech.zip"
+        },
+        {
+            "id": "2127",
+            "name": "Wizard Fire (US v1.1)",
+            "company": "Data East Corporation",
+            "year": "1992",
+            "romname": "wizdfire.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #164 - Iron Horse - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/26493/mame-row-164-iron-horse/1?lang=en-GB",
+            "published": "2020-06-01T13:06:35.163Z"
+        },
+        {
+            "id": "461",
+            "name": "Dragon Master",
+            "company": "Unico",
+            "year": "1994",
+            "romname": "drgnmst.zip"
+        },
+        {
+            "id": "1359",
+            "name": "Pipe Dream (US)",
+            "company": "Video System Co.",
+            "year": "1990",
+            "romname": "pipedrm.zip"
+        },
+        {
+            "id": "505",
+            "name": "Evil Stone",
+            "company": "Spacy Industrial, Ltd.",
+            "year": "1990",
+            "romname": "evilston.zip"
+        },
+        {
+            "id": "813",
+            "name": "Iron Horse",
+            "company": "Konami",
+            "year": "1986",
+            "romname": "ironhors.zip",
+            "winner": true
+        },
+        {
+            "id": "1870",
+            "name": "Vs. Super Xevious",
+            "company": "Namco",
+            "year": "1986",
+            "romname": "supxevs.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #165 - Captain America and The Avengers - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/26753/mame-row-165-captain-america-and-the-avengers/1?lang=en-GB",
+            "published": "2020-06-15T15:13:27.610Z"
+        },
+        {
+            "id": "847",
+            "name": "Masked Riders Club Battle Race",
+            "company": "Toei / Banpresto",
+            "year": "1993",
+            "romname": "kamenrid.zip"
+        },
+        {
+            "id": "1017",
+            "name": "Maya",
+            "company": "Promat",
+            "year": "1994",
+            "romname": "maya.zip"
+        },
+        {
+            "id": "242",
+            "name": "Captain America and The Avengers (Asia Rev 1.9)",
+            "company": "Data East Corporation",
+            "year": "1991",
+            "romname": "captaven.zip",
+            "winner": true
+        },
+        {
+            "id": "392",
+            "name": "Dynamic Country Club",
+            "company": "Sega",
+            "year": "1991",
+            "romname": "dcclub.zip"
+        },
+        {
+            "id": "1635",
+            "name": "Street Fighter Alpha: Warriors' Dreams (Euro 950727)",
+            "company": "Capcom",
+            "year": "1995",
+            "romname": "sfa.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #166 - The Cliffhanger - Edward Randy - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/26966/mame-row-166-the-cliffhanger-edward-randy/1?lang=en-GB",
+            "published": "2020-06-29T12:34:05.379Z"
+        },
+        {
+            "id": "483",
+            "name": "The Cliffhanger - Edward Randy (World revision 2)",
+            "company": "Data East Corporation",
+            "year": "1990",
+            "romname": "edrandy.zip",
+            "winner": true
+        },
+        {
+            "id": "1771",
+            "name": "Splatter House (Japan)",
+            "company": "Namco",
+            "year": "1988",
+            "romname": "splatter.zip"
+        },
+        {
+            "id": "1382",
+            "name": "Pole Position II",
+            "company": "Namco",
+            "year": "1983",
+            "romname": "polepos2.zip"
+        },
+        {
+            "id": "95",
+            "name": "Balloon Bomber",
+            "company": "Taito",
+            "year": "1980",
+            "romname": "ballbomb.zip"
+        },
+        {
+            "id": "1270",
+            "name": "Panic Street (Japan)",
+            "company": "Kaneko",
+            "year": "1999",
+            "romname": "panicstr.zip",
+            "bios": "skns.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #167 - Sauro - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/27135/mame-row-167-sauro/1?lang=en-GB",
+            "published": "2020-07-13T13:40:30.425Z"
+        },
+        {
+            "id": "1643",
+            "name": "Gladiator 1984",
+            "company": "SNK",
+            "year": "1984",
+            "romname": "sgladiat.zip"
+        },
+        {
+            "id": "932",
+            "name": "Legend of Success Joe / Ashitano Joe Densetsu",
+            "company": "SNK",
+            "year": "1991",
+            "romname": "legendos.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "1589",
+            "name": "Sauro",
+            "company": "Tecfri",
+            "year": "1987",
+            "romname": "sauro.zip",
+            "winner": true
+        },
+        {
+            "id": "513",
+            "name": "Extermination (US)",
+            "company": "[Taito] World Games",
+            "year": "1987",
+            "romname": "extrmatn.zip"
+        },
+        {
+            "id": "1751",
+            "name": "Space King 2",
+            "company": "Konami",
+            "year": "1979",
+            "romname": "spcking2.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #168 - King & Balloon - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/27274/mame-row-168-king-balloon/1?lang=en-GB",
+            "published": "2020-07-27T18:40:58.581Z"
+        },
+        {
+            "id": "385",
+            "name": "Dark Warrior",
+            "company": "Century Electronics",
+            "year": "1981",
+            "romname": "darkwar.zip"
+        },
+        {
+            "id": "872",
+            "name": "King & Balloon (US)",
+            "company": "Namco",
+            "year": "1980",
+            "romname": "kingball.zip",
+            "winner": true
+        },
+        {
+            "id": "236",
+            "name": "California Speed",
+            "company": "Atari Games",
+            "year": "1998",
+            "romname": "calspeed.zip"
+        },
+        {
+            "id": "299",
+            "name": "Clash-Road",
+            "company": "Woodplace Inc.",
+            "year": "1986",
+            "romname": "clshroad.zip"
+        },
+        {
+            "id": "1519",
+            "name": "Riding Fight (World)",
+            "company": "Taito Corporation Japan",
+            "year": "1992",
+            "romname": "ridingf.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #169 - Levers - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/27441/mame-row-169-levers/1?lang=en-GB",
+            "published": "2020-08-10T13:45:44.216Z"
+        },
+        {
+            "id": "937",
+            "name": "Lethal Justice",
+            "company": "The Game Room",
+            "year": "1996",
+            "romname": "lethalj.zip"
+        },
+        {
+            "id": "1119",
+            "name": "Mouja (Japan)",
+            "company": "Etona",
+            "year": "1996",
+            "romname": "mouja.zip"
+        },
+        {
+            "id": "939",
+            "name": "Levers",
+            "company": "Rock-ola",
+            "year": "1983",
+            "romname": "levers.zip",
+            "winner": true
+        },
+        {
+            "id": "76",
+            "name": "Asura Blade - Sword of Dynasty (Japan)",
+            "company": "Fuuki",
+            "year": "1998",
+            "romname": "asurabld.zip"
+        },
+        {
+            "id": "294",
+            "name": "Clay Shoot",
+            "company": "Allied Leisure",
+            "year": "1979",
+            "romname": "clayshoo.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #170 - Drift Out '94 - The Hard Order - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/27677/mame-row-170-drift-out-94-the-hard-order/1?lang=en-GB",
+            "published": "2020-08-31T11:50:19.576Z"
+        },
+        {
+            "id": "1922",
+            "name": "The Hustler (Japan version M)",
+            "company": "Konami",
+            "year": "1987",
+            "romname": "thehustl.zip"
+        },
+        {
+            "id": "96",
+            "name": "Balloon Brothers",
+            "company": "East Technology",
+            "year": "1992",
+            "romname": "ballbros.zip"
+        },
+        {
+            "id": "465",
+            "name": "Drift Out '94 - The Hard Order (Japan)",
+            "company": "Visco",
+            "year": "1994",
+            "romname": "drifto94.zip",
+            "winner": true
+        },
+        {
+            "id": "2078",
+            "name": "Vs. BaseBall",
+            "company": "Nintendo of America",
+            "year": "1984",
+            "romname": "vsbball.zip"
+        },
+        {
+            "id": "1287",
+            "name": "PlayChoice-10: Balloon Fight",
+            "company": "Nintendo",
+            "year": "1984",
+            "romname": "pc_bfght.zip"
+        }
+    ],
+    [
+        {
+            "title": "MAME ROW #171 - Xevious - RetroPie Forum",
+            "url": "https://retropie.org.uk/forum/topic/27862/mame-row-171-xevious/1?lang=en-GB",
+            "published": "2020-09-14T12:11:25.241Z"
+        },
+        {
+            "id": "357",
+            "name": "Captain Tomaday",
+            "company": "Visco",
+            "year": "1999",
+            "romname": "ctomaday.zip",
+            "bios": "neogeo.zip"
+        },
+        {
+            "id": "2150",
+            "name": "Xevious (Namco)",
+            "company": "Namco",
+            "year": "1982",
+            "romname": "xevious.zip",
+            "winner": true
+        },
+        {
+            "id": "627",
+            "name": "Ghox",
+            "company": "Toaplan",
+            "year": "1991",
+            "romname": "ghox.zip"
+        },
+        {
+            "id": "1918",
+            "name": "ThunderForce AC",
+            "company": "Sega / Technosoft",
+            "year": "1990",
+            "romname": "tfrceac.zip"
+        },
+        {
+            "id": "416",
+            "name": "Devil World",
+            "company": "Konami",
+            "year": "1987",
+            "romname": "devilw.zip"
+        }
+    ]
+]
